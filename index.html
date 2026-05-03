@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vocabulary Master</title>
+  <style>
+    :root {
+      --primary: #6366f1;
+      --primary-light: #818cf8;
+      --primary-dark: #4f46e5;
+      --accent: #f59e0b;
+      --success: #10b981;
+      --danger: #ef4444;
+      --bg: #f8f9fc;
+      --card: #ffffff;
+      --border: #e5e7eb;
+      --text: #1e293b;
+      --muted: #64748b;
+      --shadow-sm: 0 1px 3px rgba(0, 0, 0, .07), 0 1px 2px rgba(0, 0, 0, .05);
+      --shadow: 0 4px 16px rgba(99, 102, 241, .10), 0 1px 3px rgba(0, 0, 0, .06);
+      --shadow-lg: 0 12px 32px rgba(99, 102, 241, .16), 0 2px 8px rgba(0, 0, 0, .08);
+      --radius: 14px;
+      --radius-sm: 8px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    .logo span {
+      font-size: 1.5rem;
+    }
+
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: .4rem;
+      font-size: .9rem;
+      color: var(--muted);
+    }
+
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+    .breadcrumb .sep {
+      color: var(--border);
+    }
+
+    /* ── MAIN ── */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* ── PAGE VIEWS ── */
+    .page {
+      display: none;
+    }
+
+    .page.active {
+      display: block;
+      animation: fadeIn .22s ease;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    /* ── HERO (home) ── */
+    .hero {
+      text-align: center;
+      padding: 3rem 0 2.5rem;
+    }
+
+    .hero h1 {
+      font-size: 2.4rem;
+      font-weight: 800;
+      color: var(--text);
+    }
+
+    .hero h1 em {
+      font-style: normal;
+      color: var(--primary);
+    }
+
+    .hero p {
+      color: var(--muted);
+      margin-top: .6rem;
+      font-size: 1.05rem;
+    }
+
+    .stats {
+      display: flex;
+      gap: 1.2rem;
+      justify-content: center;
+      margin-top: 1.6rem;
+    }
+
+    .stat {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: .7rem 1.4rem;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    .stat span {
+      font-size: .78rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+
+    /* ── TOOLBAR ── */
+    .toolbar {
+      display: flex;
+      gap: .8rem;
+      align-items: center;
+      margin-bottom: 1.8rem;
+      flex-wrap: wrap;
+    }
+
+    .toolbar input[type=search] {
+      flex: 1;
+      min-width: 200px;
+      padding: .65rem 1rem;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: .9rem;
+      background: var(--card);
+      color: var(--text);
+      outline: none;
+      transition: border-color .15s;
+    }
+
+    .toolbar input[type=search]:focus {
+      border-color: var(--primary);
+    }
+
+    /* ── BUTTONS ── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      padding: .62rem 1.1rem;
+      border-radius: var(--radius-sm);
+      font-size: .88rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: all .15s;
+      text-decoration: none;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-dark);
+      box-shadow: 0 4px 12px rgba(99, 102, 241, .3);
+    }
+
+    .btn-outline {
+      background: var(--card);
+      color: var(--primary);
+      border: 1.5px solid var(--primary);
+    }
+
+    .btn-outline:hover {
+      background: #eef2ff;
+    }
+
+    .btn-danger {
+      background: #fef2f2;
+      color: var(--danger);
+      border: 1.5px solid #fecaca;
+    }
+
+    .btn-danger:hover {
+      background: var(--danger);
+      color: #fff;
+    }
+
+    .btn-sm {
+      padding: .38rem .7rem;
+      font-size: .8rem;
+    }
+
+    .btn-icon {
+      padding: .38rem;
+      border-radius: 6px;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      border: none;
+      transition: all .15s;
+      font-size: 1rem;
+    }
+
+    .btn-icon:hover {
+      background: #f1f5f9;
+      color: var(--text);
+    }
+
+    .btn-icon.del:hover {
+      background: #fef2f2;
+      color: var(--danger);
+    }
+
+    /* ── CATEGORY CARDS (home grid) ── */
+    .cat-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 1.2rem;
+    }
+
+    .cat-card {
+      background: var(--card);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all .2s;
+      position: relative;
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .cat-card::before {
+      content: '';
+      position: absolute;
+      inset: 0 0 auto 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--primary), var(--primary-light));
+      opacity: 0;
+      transition: opacity .2s;
+    }
+
+    .cat-card:hover {
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-2px);
+      border-color: var(--primary-light);
+    }
+
+    .cat-card:hover::before {
+      opacity: 1;
+    }
+
+    .cat-card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+
+    .cat-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 10px;
+      background: #eef2ff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      flex-shrink: 0;
+    }
+
+    .cat-actions {
+      display: flex;
+      gap: .2rem;
+      opacity: 0;
+      transition: opacity .15s;
+    }
+
+    .cat-card:hover .cat-actions {
+      opacity: 1;
+    }
+
+    .cat-card h3 {
+      margin-top: .9rem;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.3;
+    }
+
+    .cat-card .word-count {
+      margin-top: .35rem;
+      font-size: .8rem;
+      color: var(--muted);
+    }
+
+    .cat-card .word-count strong {
+      color: var(--primary);
+    }
+
+    .cat-card-footer {
+      margin-top: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: .2rem .55rem;
+      border-radius: 20px;
+      font-size: .72rem;
+      font-weight: 600;
+      background: #eef2ff;
+      color: var(--primary);
+    }
+
+    .open-btn {
+      font-size: .78rem;
+      color: var(--primary);
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: .2rem;
+    }
+
+    /* ── DETAIL PAGE ── */
+    .detail-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .detail-icon {
+      width: 56px;
+      height: 56px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+      flex-shrink: 0;
+    }
+
+    .detail-title h2 {
+      font-size: 1.5rem;
+      font-weight: 800;
+    }
+
+    .detail-title p {
+      color: var(--muted);
+      font-size: .9rem;
+      margin-top: .2rem;
+    }
+
+    /* ── WORD TABLE ── */
+    .word-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border);
+    }
+
+    .word-table thead {
+      background: #fafafa;
+    }
+
+    .word-table th {
+      padding: .85rem 1.1rem;
+      text-align: left;
+      font-size: .78rem;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .word-table td {
+      padding: .9rem 1.1rem;
+      border-bottom: 1px solid #f1f5f9;
+      vertical-align: top;
+      font-size: .9rem;
+    }
+
+    .word-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .word-table tr:hover td {
+      background: #f8faff;
+    }
+
+    .word-diff {
+      background: #fff7ed;
+      color: #c2410c;
+      padding: .15rem .4rem;
+      border-radius: 4px;
+      font-size: .8rem;
+      font-weight: 600;
+      display: inline-block;
+      margin-left: .4rem;
+    }
+
+    .word-def {
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .row-actions {
+      display: flex;
+      gap: .3rem;
+      justify-content: flex-end;
+    }
+
+    /* ── EMPTY STATE ── */
+    .empty {
+      text-align: center;
+      padding: 3rem;
+      color: var(--muted);
+    }
+
+    .empty .empty-icon {
+      font-size: 3rem;
+      margin-bottom: .8rem;
+    }
+
+    .empty h3 {
+      font-size: 1.1rem;
+      color: var(--text);
+    }
+
+    .empty p {
+      font-size: .88rem;
+      margin-top: .3rem;
+    }
+
+    /* ── MODAL ── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, .35);
+      backdrop-filter: blur(2px);
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-overlay.open {
+      display: flex;
+      animation: fadeIn .15s ease;
+    }
+
+    .modal {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 2rem;
+      width: 100%;
+      max-width: 500px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, .2);
+      margin: 1rem;
+      animation: slideUp .18s ease;
+    }
+
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(16px);
+      }
+
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    .modal h3 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      margin-bottom: 1.4rem;
+    }
+
+    .modal-footer {
+      display: flex;
+      gap: .7rem;
+      justify-content: flex-end;
+      margin-top: 1.4rem;
+    }
+
+    /* ── FORM ── */
+    .form-group {
+      margin-bottom: 1rem;
+    }
+
+    label {
+      display: block;
+      font-size: .82rem;
+      font-weight: 600;
+      color: var(--muted);
+      margin-bottom: .35rem;
+      text-transform: uppercase;
+      letter-spacing: .03em;
+    }
+
+    input[type=text],
+    textarea {
+      width: 100%;
+      padding: .65rem .9rem;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: .92rem;
+      color: var(--text);
+      background: var(--card);
+      outline: none;
+      font-family: inherit;
+      transition: border-color .15s;
+    }
+
+    input[type=text]:focus,
+    textarea:focus {
+      border-color: var(--primary);
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 80px;
+    }
+
+    /* ── TOAST ── */
+    .toast-wrap {
+      position: fixed;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      z-index: 999;
+      display: flex;
+      flex-direction: column;
+      gap: .5rem;
+    }
+
+    .toast {
+      background: var(--text);
+      color: #fff;
+      padding: .7rem 1.2rem;
+      border-radius: var(--radius-sm);
+      font-size: .88rem;
+      font-weight: 500;
+      box-shadow: var(--shadow);
+      animation: slideToast .2s ease;
+      pointer-events: none;
+    }
+
+    .toast.success {
+      background: var(--success);
+    }
+
+    .toast.error {
+      background: var(--danger);
+    }
+
+    @keyframes slideToast {
+      from {
+        opacity: 0;
+        transform: translateX(20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 640px) {
+      main {
+        padding: 1rem;
+      }
+
+      .hero h1 {
+        font-size: 1.7rem;
+      }
+
+      .stats {
+        gap: .6rem;
+      }
+
+      .word-table th:nth-child(2),
+      .word-table td:nth-child(2) {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <a class="logo" href="#" onclick="showHome()">
+      <span>📚</span> Vocabulary Master
+    </a>
+    <div class="breadcrumb" id="breadcrumb"></div>
+  </header>
+
+  <main>
+    <!-- HOME PAGE -->
+    <div id="page-home" class="page active">
+      <div class="hero">
+        <h1>Your <em>Vocabulary</em> Library</h1>
+        <p>Browse categories, learn words, and manage your vocabulary with ease.</p>
+        <div class="stats">
+          <div class="stat"><strong id="stat-cats">—</strong><span>Categories</span></div>
+          <div class="stat"><strong id="stat-words">—</strong><span>Total Words</span></div>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input type="search" id="cat-search" placeholder="🔍  Search categories…" oninput="renderCategories()" />
+        <button class="btn btn-primary" onclick="openModal('cat')">+ Add Category</button>
+      </div>
+
+      <div class="cat-grid" id="cat-grid"></div>
+    </div>
+
+    <!-- DETAIL PAGE -->
+    <div id="page-detail" class="page">
+      <div class="detail-header">
+        <div class="detail-icon" id="det-icon">📖</div>
+        <div class="detail-title">
+          <h2 id="det-title">Category</h2>
+          <p id="det-sub">0 words</p>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input type="search" id="word-search" placeholder="🔍  Search words…" oninput="renderWords()" />
+        <button class="btn btn-primary" onclick="openModal('word')">+ Add Word</button>
+      </div>
+
+      <div id="word-list"></div>
+    </div>
+  </main>
+
+  <!-- TOAST CONTAINER -->
+  <div class="toast-wrap" id="toasts"></div>
+
+  <!-- MODAL -->
+  <div class="modal-overlay" id="modal-overlay" onclick="if(event.target===this)closeModal()">
+    <div class="modal">
+      <h3 id="modal-title">Title</h3>
+      <div id="modal-body"></div>
+      <div class="modal-footer">
+        <button class="btn btn-outline" onclick="closeModal()">Cancel</button>
+        <button class="btn btn-primary" id="modal-save" onclick="modalSave()">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API = '';  // same origin — change to 'http://localhost:3000' if served separately
+    let db = { categories: [] };
+    let currentCatId = null;
+    let modalMode = null; // 'cat' | 'word' | 'edit-cat' | 'edit-word'
+    let editTarget = null;
+
+    const CAT_ICONS = ['📖', '🧠', '⚡', '🎯', '🌟', '🔥', '💡', '🎓', '🌈', '🚀', '🎪', '🏆', '💎', '🎭', '🌿'];
+
+    // ── DATA ──────────────────────────────────────────────────────
+
+    async function loadDB() {
+      try {
+        const r = await fetch(`${API}/api/categories`);
+        db.categories = await r.json();
+        renderCategories();
+        updateStats();
+      } catch (e) {
+        // fallback: fetch db.json directly (file-mode)
+        try {
+          const r = await fetch('./db.json');
+          const d = await r.json();
+          db = d;
+          renderCategories();
+          updateStats();
+        } catch { toast('Could not load data', 'error'); }
+      }
+    }
+
+    async function api(method, path, body) {
+      const r = await fetch(`${API}${path}`, {
+        method,
+        headers: { 'Content-Type': 'application/json' },
+        body: body ? JSON.stringify(body) : undefined
+      });
+      if (!r.ok) throw new Error(await r.text());
+      return r.json();
+    }
+
+    // ── STATS ────────────────────────────────────────────────────
+
+    function updateStats() {
+      document.getElementById('stat-cats').textContent = db.categories.length;
+      document.getElementById('stat-words').textContent = db.categories.reduce((s, c) => s + c.words.length, 0);
+    }
+
+    // ── NAVIGATION ───────────────────────────────────────────────
+
+    function showHome() {
+      currentCatId = null;
+      document.getElementById('page-home').classList.add('active');
+      document.getElementById('page-detail').classList.remove('active');
+      document.getElementById('breadcrumb').innerHTML = '';
+    }
+
+    function showDetail(catId) {
+      currentCatId = catId;
+      const cat = db.categories.find(c => c.id === catId);
+      if (!cat) return;
+      document.getElementById('page-home').classList.remove('active');
+      document.getElementById('page-detail').classList.add('active');
+      const idx = db.categories.indexOf(cat);
+      document.getElementById('det-icon').textContent = CAT_ICONS[idx % CAT_ICONS.length];
+      document.getElementById('det-title').textContent = cat.name;
+      document.getElementById('det-sub').textContent = `${cat.words.length} word${cat.words.length !== 1 ? 's' : ''}`;
+      document.getElementById('breadcrumb').innerHTML = `
+    <a href="#" onclick="showHome()">Home</a>
+    <span class="sep">›</span>
+    <span>${cat.name}</span>`;
+      renderWords();
+    }
+
+    // ── RENDER CATEGORIES ─────────────────────────────────────────
+
+    function renderCategories() {
+      const q = document.getElementById('cat-search').value.toLowerCase();
+      const filtered = db.categories.filter(c => c.name.toLowerCase().includes(q));
+      const grid = document.getElementById('cat-grid');
+      if (!filtered.length) {
+        grid.innerHTML = `<div class="empty" style="grid-column:1/-1"><div class="empty-icon">🔍</div><h3>No categories found</h3><p>Try a different search or add a new category.</p></div>`;
+        return;
+      }
+      grid.innerHTML = filtered.map((cat, i) => {
+        const icon = CAT_ICONS[db.categories.indexOf(cat) % CAT_ICONS.length];
+        return `
+    <div class="cat-card" onclick="showDetail('${cat.id}')">
+      <div class="cat-card-header">
+        <div class="cat-icon">${icon}</div>
+        <div class="cat-actions" onclick="event.stopPropagation()">
+          <button class="btn-icon" title="Edit" onclick="openEditCat('${cat.id}')">✏️</button>
+          <button class="btn-icon del" title="Delete" onclick="deleteCat('${cat.id}')">🗑️</button>
+        </div>
+      </div>
+      <h3>${cat.name}</h3>
+      <p class="word-count"><strong>${cat.words.length}</strong> words</p>
+      <div class="cat-card-footer">
+        <span class="badge">Category ${db.categories.indexOf(cat) + 1}</span>
+        <span class="open-btn">Open →</span>
+      </div>
+    </div>`;
+      }).join('');
+    }
+
+    // ── RENDER WORDS ──────────────────────────────────────────────
+
+    function renderWords() {
+      const cat = db.categories.find(c => c.id === currentCatId);
+      if (!cat) return;
+      const q = document.getElementById('word-search').value.toLowerCase();
+      const words = cat.words.filter(w =>
+        w.correct_spelling.toLowerCase().includes(q) ||
+        w.as_written.toLowerCase().includes(q) ||
+        w.definition.toLowerCase().includes(q)
+      );
+      document.getElementById('det-sub').textContent = `${cat.words.length} word${cat.words.length !== 1 ? 's' : ''}`;
+      const container = document.getElementById('word-list');
+      if (!words.length) {
+        container.innerHTML = `<div class="empty"><div class="empty-icon">📝</div><h3>No words found</h3><p>Add your first word or clear the search.</p></div>`;
+        return;
+      }
+      container.innerHTML = `
+  <table class="word-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>As Written</th>
+        <th>Correct Spelling</th>
+        <th>Definition</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      ${words.map((w, i) => {
+        const hasDiff = w.as_written !== w.correct_spelling;
+        return `
+        <tr>
+          <td style="color:var(--muted);font-size:.8rem">${i + 1}</td>
+          <td>
+            <strong>${w.as_written}</strong>
+            ${hasDiff ? `<span class="word-diff">≠</span>` : ''}
+          </td>
+          <td><strong style="color:var(--primary)">${w.correct_spelling}</strong></td>
+          <td class="word-def">${w.definition}</td>
+          <td>
+            <div class="row-actions">
+              <button class="btn-icon" title="Edit" onclick="openEditWord('${w.id}')">✏️</button>
+              <button class="btn-icon del" title="Delete" onclick="deleteWord('${w.id}')">🗑️</button>
+            </div>
+          </td>
+        </tr>`;
+      }).join('')}
+    </tbody>
+  </table>`;
+    }
+
+    // ── MODAL ────────────────────────────────────────────────────
+
+    function openModal(mode) {
+      modalMode = mode;
+      editTarget = null;
+      if (mode === 'cat') {
+        document.getElementById('modal-title').textContent = '✨ Add New Category';
+        document.getElementById('modal-body').innerHTML = `
+      <div class="form-group">
+        <label>Category Name</label>
+        <input type="text" id="f-cat-name" placeholder="e.g. Power Words" autofocus />
+      </div>`;
+      } else {
+        document.getElementById('modal-title').textContent = '📝 Add New Word';
+        document.getElementById('modal-body').innerHTML = wordForm();
+      }
+      document.getElementById('modal-overlay').classList.add('open');
+      setTimeout(() => document.querySelector('.modal input, .modal textarea') && document.querySelector('.modal input').focus(), 100);
+    }
+
+    function openEditCat(catId) {
+      modalMode = 'edit-cat';
+      editTarget = catId;
+      const cat = db.categories.find(c => c.id === catId);
+      document.getElementById('modal-title').textContent = '✏️ Edit Category';
+      document.getElementById('modal-body').innerHTML = `
+    <div class="form-group">
+      <label>Category Name</label>
+      <input type="text" id="f-cat-name" value="${cat.name}" autofocus />
+    </div>`;
+      document.getElementById('modal-overlay').classList.add('open');
+    }
+
+    function openEditWord(wordId) {
+      modalMode = 'edit-word';
+      editTarget = wordId;
+      const cat = db.categories.find(c => c.id === currentCatId);
+      const word = cat.words.find(w => w.id === wordId);
+      document.getElementById('modal-title').textContent = '✏️ Edit Word';
+      document.getElementById('modal-body').innerHTML = wordForm(word);
+      document.getElementById('modal-overlay').classList.add('open');
+    }
+
+    function wordForm(w = {}) {
+      return `
+    <div class="form-group">
+      <label>As Written</label>
+      <input type="text" id="f-as-written" value="${w.as_written || ''}" placeholder="How you wrote it" />
+    </div>
+    <div class="form-group">
+      <label>Correct Spelling</label>
+      <input type="text" id="f-correct" value="${w.correct_spelling || ''}" placeholder="Correct form" />
+    </div>
+    <div class="form-group">
+      <label>Definition</label>
+      <textarea id="f-definition" placeholder="Meaning of the word…">${w.definition || ''}</textarea>
+    </div>`;
+    }
+
+    function closeModal() {
+      document.getElementById('modal-overlay').classList.remove('open');
+      modalMode = null; editTarget = null;
+    }
+
+    async function modalSave() {
+      try {
+        if (modalMode === 'cat') {
+          const name = document.getElementById('f-cat-name').value.trim();
+          if (!name) return toast('Please enter a name', 'error');
+          const cat = await api('POST', '/api/categories', { name });
+          db.categories.push({ ...cat, words: [] });
+          renderCategories(); updateStats();
+          toast('Category added ✓', 'success');
+        } else if (modalMode === 'edit-cat') {
+          const name = document.getElementById('f-cat-name').value.trim();
+          if (!name) return toast('Please enter a name', 'error');
+          await api('PUT', `/api/categories/${editTarget}`, { name });
+          db.categories.find(c => c.id === editTarget).name = name;
+          renderCategories(); updateStats();
+          toast('Category updated ✓', 'success');
+        } else if (modalMode === 'word') {
+          const body = getWordFormValues();
+          if (!body) return;
+          const word = await api('POST', `/api/categories/${currentCatId}/words`, body);
+          db.categories.find(c => c.id === currentCatId).words.push(word);
+          renderWords(); updateStats();
+          toast('Word added ✓', 'success');
+        } else if (modalMode === 'edit-word') {
+          const body = getWordFormValues();
+          if (!body) return;
+          await api('PUT', `/api/categories/${currentCatId}/words/${editTarget}`, body);
+          const cat = db.categories.find(c => c.id === currentCatId);
+          Object.assign(cat.words.find(w => w.id === editTarget), body);
+          renderWords();
+          toast('Word updated ✓', 'success');
+        }
+        closeModal();
+      } catch (e) { toast('Error: ' + e.message, 'error'); }
+    }
+
+    function getWordFormValues() {
+      const as_written = document.getElementById('f-as-written').value.trim();
+      const correct_spelling = document.getElementById('f-correct').value.trim();
+      const definition = document.getElementById('f-definition').value.trim();
+      if (!correct_spelling) { toast('Correct spelling is required', 'error'); return null; }
+      return { as_written: as_written || correct_spelling, correct_spelling, definition };
+    }
+
+    // ── DELETE ────────────────────────────────────────────────────
+
+    async function deleteCat(catId) {
+      const cat = db.categories.find(c => c.id === catId);
+      if (!confirm(`Delete "${cat.name}" and all its ${cat.words.length} words?`)) return;
+      try {
+        await api('DELETE', `/api/categories/${catId}`);
+        db.categories = db.categories.filter(c => c.id !== catId);
+        renderCategories(); updateStats();
+        toast('Category deleted', 'success');
+      } catch (e) { toast('Error deleting', 'error'); }
+    }
+
+    async function deleteWord(wordId) {
+      if (!confirm('Delete this word?')) return;
+      try {
+        await api('DELETE', `/api/categories/${currentCatId}/words/${wordId}`);
+        const cat = db.categories.find(c => c.id === currentCatId);
+        cat.words = cat.words.filter(w => w.id !== wordId);
+        renderWords(); updateStats();
+        toast('Word deleted', 'success');
+      } catch (e) { toast('Error deleting', 'error'); }
+    }
+
+    // ── TOAST ─────────────────────────────────────────────────────
+
+    function toast(msg, type = '') {
+      const wrap = document.getElementById('toasts');
+      const el = document.createElement('div');
+      el.className = `toast ${type}`;
+      el.textContent = msg;
+      wrap.appendChild(el);
+      setTimeout(() => el.remove(), 2800);
+    }
+
+    // ── KEYBOARD ─────────────────────────────────────────────────
+
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') closeModal();
+      if ((e.key === 'Enter') && document.getElementById('modal-overlay').classList.contains('open')) {
+        const t = e.target.tagName;
+        if (t !== 'TEXTAREA') modalSave();
+      }
+    });
+
+    // ── INIT ──────────────────────────────────────────────────────
+
+    loadDB();
+  </script>
+</body>
+
+</html>

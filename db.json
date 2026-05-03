@@ -1,0 +1,1378 @@
+{
+  "categories": [
+    {
+      "id": "001",
+      "name": "1) Summit (Highest Point)",
+      "words": [
+        {
+          "id": "001_001",
+          "as_written": "Peak",
+          "correct_spelling": "Peak",
+          "definition": "The pointed top of a mountain; the highest point of something."
+        },
+        {
+          "id": "001_002",
+          "as_written": "Pinnacle",
+          "correct_spelling": "Pinnacle",
+          "definition": "The most successful point; the culmination."
+        },
+        {
+          "id": "001_003",
+          "as_written": "Zenith",
+          "correct_spelling": "Zenith",
+          "definition": "The time at which something is most powerful or successful; the highest point in the sky directly overhead."
+        },
+        {
+          "id": "001_004",
+          "as_written": "Acme",
+          "correct_spelling": "Acme",
+          "definition": "The point at which someone or something is best, perfect, or most successful."
+        },
+        {
+          "id": "001_005",
+          "as_written": "Apogee vs perigee",
+          "correct_spelling": "Apogee / Perigee",
+          "definition": "Apogee: The highest point in the development of something. Perigee: The lowest or closest point."
+        },
+        {
+          "id": "001_006",
+          "as_written": "Climaxe",
+          "correct_spelling": "Climax",
+          "definition": "The most intense, exciting, or important point of something."
+        },
+        {
+          "id": "001_007",
+          "as_written": "Vertex",
+          "correct_spelling": "Vertex",
+          "definition": "The highest point; the top or apex."
+        },
+        {
+          "id": "001_008",
+          "as_written": "Apex",
+          "correct_spelling": "Apex",
+          "definition": "The top or highest part of something, especially one forming a point."
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "2) Lowest",
+      "words": [
+        {
+          "id": "002_001",
+          "as_written": "Abyss",
+          "correct_spelling": "Abyss",
+          "definition": "A deep or seemingly bottomless chasm."
+        },
+        {
+          "id": "002_002",
+          "as_written": "Nadir",
+          "correct_spelling": "Nadir",
+          "definition": "The lowest point in the fortunes of a person or organization."
+        },
+        {
+          "id": "002_003",
+          "as_written": "abyssmal",
+          "correct_spelling": "Abysmal",
+          "definition": "Extremely bad; appalling. (Figuratively meaning \"bottomless\" like an abyss)."
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "3) Free from blame",
+      "words": [
+        {
+          "id": "003_001",
+          "as_written": "Excaulpate",
+          "correct_spelling": "Exculpate",
+          "definition": "To show or declare that someone is not guilty of wrongdoing."
+        },
+        {
+          "id": "003_002",
+          "as_written": "Exonerate",
+          "correct_spelling": "Exonerate",
+          "definition": "To officially absolve someone from blame for a fault or wrongdoing."
+        },
+        {
+          "id": "003_003",
+          "as_written": "Vindicate",
+          "correct_spelling": "Vindicate",
+          "definition": "To clear someone of blame or suspicion; to prove to be right or justified."
+        },
+        {
+          "id": "003_004",
+          "as_written": "Disabuse",
+          "correct_spelling": "Disabuse",
+          "definition": "To persuade someone that an idea or belief is mistaken."
+        },
+        {
+          "id": "003_005",
+          "as_written": "Absolve",
+          "correct_spelling": "Absolve",
+          "definition": "To set or declare someone free from blame, guilt, or responsibility."
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "name": "4) Suspended Activity",
+      "words": [
+        {
+          "id": "004_001",
+          "as_written": "Abeyence",
+          "correct_spelling": "Abeyance",
+          "definition": "A state of temporary disuse or suspension."
+        },
+        {
+          "id": "004_002",
+          "as_written": "Hybernation",
+          "correct_spelling": "Hibernation",
+          "definition": "The condition or period of spending the winter in a dormant state."
+        },
+        {
+          "id": "004_003",
+          "as_written": "Dorman",
+          "correct_spelling": "Dormant",
+          "definition": "Having normal physical functions suspended or slowed down for a period of time; temporarily inactive."
+        },
+        {
+          "id": "004_004",
+          "as_written": "Quiescent",
+          "correct_spelling": "Quiescent",
+          "definition": "In a state or period of inactivity or dormancy."
+        },
+        {
+          "id": "004_005",
+          "as_written": "Inert",
+          "correct_spelling": "Inert",
+          "definition": "Lacking the ability or strength to move; chemically inactive."
+        },
+        {
+          "id": "004_006",
+          "as_written": "Suspension",
+          "correct_spelling": "Suspension",
+          "definition": "The temporary prevention of something from continuing or being in force or effect."
+        },
+        {
+          "id": "004_007",
+          "as_written": "Cessation",
+          "correct_spelling": "Cessation",
+          "definition": "The fact or process of ending or being brought to an end."
+        },
+        {
+          "id": "004_008",
+          "as_written": "latent",
+          "correct_spelling": "Latent",
+          "definition": "Existing but not yet developed or manifest; hidden or concealed."
+        },
+        {
+          "id": "004_009",
+          "as_written": "Comatose",
+          "correct_spelling": "Comatose",
+          "definition": "In a state of deep unconsciousness for a prolonged or indefinite period; extremely lethargic."
+        },
+        {
+          "id": "004_010",
+          "as_written": "Auxilry",
+          "correct_spelling": "Auxiliary",
+          "definition": "Providing supplementary or additional help and support."
+        },
+        {
+          "id": "004_011",
+          "as_written": "Anciliarly",
+          "correct_spelling": "Ancillary",
+          "definition": "Providing necessary support to the primary activities or operation of an organization, institution, industry, or system."
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "name": "5) Favourable / Bias",
+      "words": [
+        {
+          "id": "005_001",
+          "as_written": "Partisan",
+          "correct_spelling": "Partisan",
+          "definition": "A strong, often prejudiced, supporter of a party, cause, or person."
+        },
+        {
+          "id": "005_002",
+          "as_written": "Prejudice",
+          "correct_spelling": "Prejudice",
+          "definition": "Preconceived opinion that is not based on reason or actual experience."
+        },
+        {
+          "id": "005_003",
+          "as_written": "adhere",
+          "correct_spelling": "Adhere",
+          "definition": "To believe in and follow the practices of; to stick to a belief."
+        },
+        {
+          "id": "005_004",
+          "as_written": "bigot",
+          "correct_spelling": "Bigot",
+          "definition": "A person who is obstinately or unreasonably attached to a belief or faction, especially one who is prejudiced against others."
+        },
+        {
+          "id": "005_005",
+          "as_written": "patriotic",
+          "correct_spelling": "Patriotic",
+          "definition": "Having or expressing devotion to and vigorous support for one's country."
+        },
+        {
+          "id": "005_006",
+          "as_written": "chauvinistic",
+          "correct_spelling": "Chauvinistic",
+          "definition": "Feeling or displaying aggressive or exaggerated patriotism; excessively biased."
+        },
+        {
+          "id": "005_007",
+          "as_written": "jingoism",
+          "correct_spelling": "Jingoism",
+          "definition": "Extreme patriotism, especially in the form of aggressive or warlike foreign policy."
+        },
+        {
+          "id": "005_008",
+          "as_written": "Loyal",
+          "correct_spelling": "Loyal",
+          "definition": "Giving or showing firm and constant support or allegiance to a person or institution."
+        },
+        {
+          "id": "005_009",
+          "as_written": "preferential",
+          "correct_spelling": "Preferential",
+          "definition": "Of or involving preference or partiality; showing favor to one over another."
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "name": "6) Support",
+      "words": [
+        {
+          "id": "006_001",
+          "as_written": "Advocate",
+          "correct_spelling": "Advocate",
+          "definition": "To publicly recommend or support a particular cause or policy."
+        },
+        {
+          "id": "006_002",
+          "as_written": "Champion",
+          "correct_spelling": "Champion",
+          "definition": "To vigorously support or defend a person or cause."
+        },
+        {
+          "id": "006_003",
+          "as_written": "Butteress",
+          "correct_spelling": "Buttress",
+          "definition": "To provide a source of defense or support; to increase the strength of or justification for something."
+        },
+        {
+          "id": "006_004",
+          "as_written": "Bolster",
+          "correct_spelling": "Bolster",
+          "definition": "To support or strengthen; prop up."
+        },
+        {
+          "id": "006_005",
+          "as_written": "Corrborate",
+          "correct_spelling": "Corroborate",
+          "definition": "To confirm or give support to a statement, theory, or finding."
+        },
+        {
+          "id": "006_006",
+          "as_written": "Espouse",
+          "correct_spelling": "Espouse",
+          "definition": "To adopt or support a cause, belief, or way of life."
+        },
+        {
+          "id": "006_007",
+          "as_written": "APbet",
+          "correct_spelling": "Abet",
+          "definition": "To encourage or assist someone."
+        },
+        {
+          "id": "006_008",
+          "as_written": "Foster",
+          "correct_spelling": "Foster",
+          "definition": "To encourage or promote the development of something (usually something good)."
+        },
+        {
+          "id": "006_009",
+          "as_written": "Endorse",
+          "correct_spelling": "Endorse",
+          "definition": "To declare one's public approval or support of something or someone."
+        },
+        {
+          "id": "006_010",
+          "as_written": "Underpin",
+          "correct_spelling": "Underpin",
+          "definition": "To support, justify, or form the basis for something."
+        },
+        {
+          "id": "006_011",
+          "as_written": "Undergurd",
+          "correct_spelling": "Undergird",
+          "definition": "To provide support or a firm basis for something; to secure from underneath."
+        },
+        {
+          "id": "006_012",
+          "as_written": "Retify",
+          "correct_spelling": "Ratify",
+          "definition": "To sign or give formal consent to a treaty, contract, or agreement, making it officially valid."
+        },
+        {
+          "id": "006_013",
+          "as_written": "Authenticate",
+          "correct_spelling": "Authenticate",
+          "definition": "To prove or show that something (like a claim or document) is true, genuine, or valid."
+        },
+        {
+          "id": "006_014",
+          "as_written": "Validate",
+          "correct_spelling": "Validate",
+          "definition": "To check or prove the validity, accuracy, or acceptability of something."
+        },
+        {
+          "id": "006_015",
+          "as_written": "Praponate",
+          "correct_spelling": "Proponent",
+          "definition": "A person who advocates for a theory, proposal, or project."
+        },
+        {
+          "id": "006_016",
+          "as_written": "Irredentiste",
+          "correct_spelling": "Irredentist",
+          "definition": "A person advocating the restoration to their country of any territory formerly belonging to it."
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "name": "7) Brief / Short",
+      "words": [
+        {
+          "id": "007_001",
+          "as_written": "abridge",
+          "correct_spelling": "Abridge",
+          "definition": "To shorten a book, movie, speech, or other text without losing the overall sense."
+        },
+        {
+          "id": "007_002",
+          "as_written": "Jist",
+          "correct_spelling": "Gist",
+          "definition": "The main or essential part of a matter; the substance of a speech or text."
+        },
+        {
+          "id": "007_003",
+          "as_written": "Pithy / Pith",
+          "correct_spelling": "Pithy / Pith",
+          "definition": "Pithy: (of language) concise and forcefully expressive. Pith: The essence of something."
+        },
+        {
+          "id": "007_004",
+          "as_written": "Terse",
+          "correct_spelling": "Terse",
+          "definition": "Sparing in the use of words; abrupt or short in speech."
+        },
+        {
+          "id": "007_005",
+          "as_written": "Tacit / Taciturn",
+          "correct_spelling": "Tacit / Taciturn",
+          "definition": "Tacit: Understood or implied without being stated aloud. Taciturn: (of a person) reserved or uncommunicative; saying very little."
+        },
+        {
+          "id": "007_006",
+          "as_written": "Laconic",
+          "correct_spelling": "Laconic",
+          "definition": "Using very few words."
+        },
+        {
+          "id": "007_007",
+          "as_written": "Synopsis",
+          "correct_spelling": "Synopsis",
+          "definition": "A brief summary or general survey of something."
+        },
+        {
+          "id": "007_008",
+          "as_written": "Brevity",
+          "correct_spelling": "Brevity",
+          "definition": "Concise and exact use of words in writing or speech; shortness of time."
+        },
+        {
+          "id": "007_009",
+          "as_written": "Compendium (Complete)",
+          "correct_spelling": "Compendium",
+          "definition": "A collection of concise but detailed information about a particular subject."
+        },
+        {
+          "id": "007_010",
+          "as_written": "Succinct",
+          "correct_spelling": "Succinct",
+          "definition": "Briefly and clearly expressed."
+        },
+        {
+          "id": "007_011",
+          "as_written": "Nexus",
+          "correct_spelling": "Nexus",
+          "definition": "A connection or series of connections linking two or more things."
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "name": "8) Dull / Boring",
+      "words": [
+        {
+          "id": "008_001",
+          "as_written": "Prosaijc",
+          "correct_spelling": "Prosaic",
+          "definition": "Commonplace or dull; matter-of-fact or unimaginative."
+        },
+        {
+          "id": "008_002",
+          "as_written": "Common Place",
+          "correct_spelling": "Commonplace",
+          "definition": "Ordinary; not unusual, interesting, or original."
+        },
+        {
+          "id": "008_003",
+          "as_written": "Pedesteriane",
+          "correct_spelling": "Pedestrian",
+          "definition": "Lacking inspiration or excitement; dull."
+        },
+        {
+          "id": "008_004",
+          "as_written": "Unoriginal",
+          "correct_spelling": "Unoriginal",
+          "definition": "Lacking originality; derivative or copied."
+        },
+        {
+          "id": "008_005",
+          "as_written": "Derevative",
+          "correct_spelling": "Derivative",
+          "definition": "Imitative of the work of someone else, usually seen as lacking originality."
+        },
+        {
+          "id": "008_006",
+          "as_written": "Hackyned",
+          "correct_spelling": "Hackneyed",
+          "definition": "(Of a phrase or idea) lacking significance through having been overused; unoriginal."
+        },
+        {
+          "id": "008_007",
+          "as_written": "Cliche",
+          "correct_spelling": "Cliché",
+          "definition": "A phrase or opinion that is overused and betrays a lack of original thought."
+        },
+        {
+          "id": "008_008",
+          "as_written": "Mondne",
+          "correct_spelling": "Mundane",
+          "definition": "Lacking interest or excitement; everyday and ordinary."
+        },
+        {
+          "id": "008_009",
+          "as_written": "Medicore",
+          "correct_spelling": "Mediocre",
+          "definition": "Of only ordinary or moderate quality; barely adequate."
+        },
+        {
+          "id": "008_010",
+          "as_written": "A Quotidian",
+          "correct_spelling": "Quotidian",
+          "definition": "Ordinary or everyday, especially when mundane."
+        },
+        {
+          "id": "008_011",
+          "as_written": "Proscaic",
+          "correct_spelling": "Prosaic",
+          "definition": "Commonplace or dull."
+        },
+        {
+          "id": "008_012",
+          "as_written": "Insipid",
+          "correct_spelling": "Insipid",
+          "definition": "Lacking vigor or interest; boring."
+        },
+        {
+          "id": "008_013",
+          "as_written": "Bromid",
+          "correct_spelling": "Bromide",
+          "definition": "A trite and unoriginal idea or remark, typically intended to soothe or placate."
+        },
+        {
+          "id": "008_014",
+          "as_written": "Vapid",
+          "correct_spelling": "Vapid",
+          "definition": "Offering nothing that is stimulating or challenging; flat or dull."
+        },
+        {
+          "id": "008_015",
+          "as_written": "Lachluster",
+          "correct_spelling": "Lackluster",
+          "definition": "Lacking in vitality, force, or conviction; uninspired."
+        },
+        {
+          "id": "008_016",
+          "as_written": "Trite",
+          "correct_spelling": "Trite",
+          "definition": "(Of a remark, opinion, or idea) overused and consequently of little import."
+        },
+        {
+          "id": "008_017",
+          "as_written": "Banal",
+          "correct_spelling": "Banal",
+          "definition": "So lacking in originality as to be obvious and boring."
+        },
+        {
+          "id": "008_018",
+          "as_written": "Hoipolloi",
+          "correct_spelling": "Hoi polloi",
+          "definition": "The masses; the common people."
+        },
+        {
+          "id": "008_019",
+          "as_written": "Humdrum",
+          "correct_spelling": "Humdrum",
+          "definition": "Lacking excitement or variety; dull; monotonous."
+        },
+        {
+          "id": "008_020",
+          "as_written": "Platitude",
+          "correct_spelling": "Platitude",
+          "definition": "A remark or statement, especially one with moral content, that has been used too often to be interesting."
+        },
+        {
+          "id": "008_021",
+          "as_written": "Truism",
+          "correct_spelling": "Truism",
+          "definition": "A statement that is obviously true and says nothing new or interesting."
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "name": "9) Hatred",
+      "words": [
+        {
+          "id": "009_001",
+          "as_written": "Animadversion",
+          "correct_spelling": "Animadversion",
+          "definition": "Criticism or censure."
+        },
+        {
+          "id": "009_002",
+          "as_written": "Melisious",
+          "correct_spelling": "Malicious",
+          "definition": "Characterized by malice; intending to do harm."
+        },
+        {
+          "id": "009_003",
+          "as_written": "Abhor",
+          "correct_spelling": "Abhor",
+          "definition": "To regard with extreme repugnance or aversion."
+        },
+        {
+          "id": "009_004",
+          "as_written": "Dispise",
+          "correct_spelling": "Despise",
+          "definition": "To look down on with contempt or aversion."
+        },
+        {
+          "id": "009_005",
+          "as_written": "Miline",
+          "correct_spelling": "Malign",
+          "definition": "To speak harmful untruths about; speak evil of."
+        },
+        {
+          "id": "009_006",
+          "as_written": "Loath",
+          "correct_spelling": "Loathe",
+          "definition": "To feel disgust or intense aversion for."
+        },
+        {
+          "id": "009_007",
+          "as_written": "Detest",
+          "correct_spelling": "Detest",
+          "definition": "To feel abhorrence of; hate."
+        },
+        {
+          "id": "009_008",
+          "as_written": "Antipathy",
+          "correct_spelling": "Antipathy",
+          "definition": "A natural, basic, or habitual repugnance; aversion."
+        },
+        {
+          "id": "009_009",
+          "as_written": "Antagonsym",
+          "correct_spelling": "Antagonism",
+          "definition": "Active hostility or opposition."
+        },
+        {
+          "id": "009_010",
+          "as_written": "Abomination",
+          "correct_spelling": "Abomination",
+          "definition": "Anything greatly disliked or abhorred."
+        },
+        {
+          "id": "009_011",
+          "as_written": "Aversation",
+          "correct_spelling": "Aversion",
+          "definition": "A strong feeling of dislike, opposition, or repugnance."
+        },
+        {
+          "id": "009_012",
+          "as_written": "Revension",
+          "correct_spelling": "Revulsion",
+          "definition": "A strong feeling of repugnance, distaste, or dislike."
+        },
+        {
+          "id": "009_013",
+          "as_written": "Excretion",
+          "correct_spelling": "Execration",
+          "definition": "The act of cursing or denouncing; something strongly detested."
+        },
+        {
+          "id": "009_014",
+          "as_written": "Repugnce",
+          "correct_spelling": "Repugnance",
+          "definition": "Strong distaste, aversion, or objection; antipathy."
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "name": "10) Cheat",
+      "words": [
+        {
+          "id": "010_001",
+          "as_written": "Artifice",
+          "correct_spelling": "Artifice",
+          "definition": "Clever or cunning devices or expedients, especially as used to trick or deceive others."
+        },
+        {
+          "id": "010_002",
+          "as_written": "Bamboozle",
+          "correct_spelling": "Bamboozle",
+          "definition": "To fool or cheat someone."
+        },
+        {
+          "id": "010_003",
+          "as_written": "Plagueration",
+          "correct_spelling": "Plagiarism",
+          "definition": "The practice of taking someone else's work or ideas and passing them off as one's own."
+        },
+        {
+          "id": "010_004",
+          "as_written": "Swendle",
+          "correct_spelling": "Swindle",
+          "definition": "To use deception to deprive someone of money or possessions."
+        },
+        {
+          "id": "010_005",
+          "as_written": "Guile",
+          "correct_spelling": "Guile",
+          "definition": "Sly or cunning intelligence."
+        },
+        {
+          "id": "010_006",
+          "as_written": "Tactful",
+          "correct_spelling": "Tactful",
+          "definition": "Having or showing skill and sensitivity in dealing with others."
+        },
+        {
+          "id": "010_007",
+          "as_written": "Trickery",
+          "correct_spelling": "Trickery",
+          "definition": "The practice of deception."
+        },
+        {
+          "id": "010_008",
+          "as_written": "Cunning",
+          "correct_spelling": "Cunning",
+          "definition": "Having or showing skill in achieving one's ends by deceit or evasion."
+        },
+        {
+          "id": "010_009",
+          "as_written": "Supterfuge",
+          "correct_spelling": "Subterfuge",
+          "definition": "Deceit used in order to achieve one's goal."
+        },
+        {
+          "id": "010_010",
+          "as_written": "Charlatan",
+          "correct_spelling": "Charlatan",
+          "definition": "A person falsely claiming to have a special knowledge or skill; a fraud."
+        },
+        {
+          "id": "010_011",
+          "as_written": "Quack",
+          "correct_spelling": "Quack",
+          "definition": "A person who dishonestly claims to have special knowledge in some field, typically medicine."
+        },
+        {
+          "id": "010_012",
+          "as_written": "Synthetic",
+          "correct_spelling": "Synthetic",
+          "definition": "Made by chemical synthesis to imitate a natural product; fake or not genuine."
+        },
+        {
+          "id": "010_013",
+          "as_written": "Ersate",
+          "correct_spelling": "Ersatz",
+          "definition": "Made or used as a substitute, typically an inferior one, for something else."
+        },
+        {
+          "id": "010_014",
+          "as_written": "Mountebank",
+          "correct_spelling": "Mountebank",
+          "definition": "A person who deceives others, especially in order to trick them out of their money."
+        },
+        {
+          "id": "010_015",
+          "as_written": "Chisel",
+          "correct_spelling": "Chisel",
+          "definition": "To cheat or swindle someone out of something."
+        },
+        {
+          "id": "010_016",
+          "as_written": "Gulet",
+          "correct_spelling": "Gull",
+          "definition": "To fool or deceive someone."
+        },
+        {
+          "id": "010_017",
+          "as_written": "Imposter",
+          "correct_spelling": "Impostor",
+          "definition": "A person who pretends to be someone else in order to deceive others."
+        },
+        {
+          "id": "010_018",
+          "as_written": "Embezzle",
+          "correct_spelling": "Embezzle",
+          "definition": "To steal or misappropriate money placed in one's trust."
+        },
+        {
+          "id": "010_019",
+          "as_written": "Decieve",
+          "correct_spelling": "Deceive",
+          "definition": "Deliberately cause someone to believe something that is not true."
+        },
+        {
+          "id": "010_020",
+          "as_written": "Con",
+          "correct_spelling": "Con",
+          "definition": "To persuade someone to do or believe something by use of deception."
+        },
+        {
+          "id": "010_021",
+          "as_written": "Artful / Stultify",
+          "correct_spelling": "Artful / Stultify",
+          "definition": "Artful: Cleverly deceitful or cunning. Stultify: To cause someone to appear foolish or absurd."
+        },
+        {
+          "id": "010_022",
+          "as_written": "Pony",
+          "correct_spelling": "Phony",
+          "definition": "Not genuine; fraudulent."
+        },
+        {
+          "id": "010_023",
+          "as_written": "Begile",
+          "correct_spelling": "Beguile",
+          "definition": "To charm or enchant someone, typically in a deceptive way."
+        },
+        {
+          "id": "010_024",
+          "as_written": "Pseudo",
+          "correct_spelling": "Pseudo",
+          "definition": "Not genuine; sham."
+        },
+        {
+          "id": "010_025",
+          "as_written": "Appropriate",
+          "correct_spelling": "Appropriate",
+          "definition": "To take something for one's own use, typically without the owner's permission."
+        },
+        {
+          "id": "010_026",
+          "as_written": "Dissemble",
+          "correct_spelling": "Dissemble",
+          "definition": "To conceal one's true motives, feelings, or beliefs."
+        },
+        {
+          "id": "010_027",
+          "as_written": "Hoodwink",
+          "correct_spelling": "Hoodwink",
+          "definition": "To deceive or trick someone."
+        },
+        {
+          "id": "010_028",
+          "as_written": "Rook",
+          "correct_spelling": "Rook",
+          "definition": "To defraud, overcharge, or swindle someone."
+        },
+        {
+          "id": "010_029",
+          "as_written": "Bilk",
+          "correct_spelling": "Bilk",
+          "definition": "To obtain or withhold money from someone by deceit; to cheat."
+        },
+        {
+          "id": "010_030",
+          "as_written": "Chicanary",
+          "correct_spelling": "Chicanery",
+          "definition": "The use of trickery to achieve a political, financial, or legal purpose."
+        },
+        {
+          "id": "010_031",
+          "as_written": "Crook",
+          "correct_spelling": "Crook",
+          "definition": "A person who is dishonest or a criminal."
+        },
+        {
+          "id": "010_032",
+          "as_written": "Cozen",
+          "correct_spelling": "Cozen",
+          "definition": "To trick or deceive; to obtain by deception."
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "name": "11) Wise / Pithy Saying",
+      "words": [
+        {
+          "id": "011_001",
+          "as_written": "Adage",
+          "correct_spelling": "Adage",
+          "definition": "A proverb or short statement expressing a general truth."
+        },
+        {
+          "id": "011_002",
+          "as_written": "Aforism",
+          "correct_spelling": "Aphorism",
+          "definition": "A pithy observation that contains a general truth."
+        },
+        {
+          "id": "011_003",
+          "as_written": "Proverb",
+          "correct_spelling": "Proverb",
+          "definition": "A short pithy saying in general use, stating a general truth or piece of advice."
+        },
+        {
+          "id": "011_004",
+          "as_written": "Idiom",
+          "correct_spelling": "Idiom",
+          "definition": "A phrase established by usage whose meaning is not deducible from the individual words."
+        },
+        {
+          "id": "011_005",
+          "as_written": "Saying",
+          "correct_spelling": "Saying",
+          "definition": "A short, well-known expression that generally contains advice or wisdom."
+        },
+        {
+          "id": "011_006",
+          "as_written": "Say",
+          "correct_spelling": "Saw",
+          "definition": "A synonym for a proverb or maxim."
+        },
+        {
+          "id": "011_007",
+          "as_written": "Quote",
+          "correct_spelling": "Quote",
+          "definition": "Repeat or copy out a group of words from a text or speech."
+        },
+        {
+          "id": "011_008",
+          "as_written": "Maxim",
+          "correct_spelling": "Maxim",
+          "definition": "A short, pithy statement expressing a general truth or rule of conduct."
+        },
+        {
+          "id": "011_009",
+          "as_written": "Trusim",
+          "correct_spelling": "Truism",
+          "definition": "A statement that is obviously true and says nothing new or interesting."
+        },
+        {
+          "id": "011_010",
+          "as_written": "Saw",
+          "correct_spelling": "Saw",
+          "definition": "An old saying or commonly repeated phrase."
+        },
+        {
+          "id": "011_011",
+          "as_written": "Motto",
+          "correct_spelling": "Motto",
+          "definition": "A short sentence or phrase chosen to encapsulate beliefs."
+        },
+        {
+          "id": "011_012",
+          "as_written": "Axiom",
+          "correct_spelling": "Axiom",
+          "definition": "A statement or proposition which is regarded as being established, accepted, or self-evidently true."
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "name": "12) Criticize",
+      "words": [
+        {
+          "id": "012_001",
+          "as_written": "Castigate",
+          "correct_spelling": "Castigate",
+          "definition": "To reprimand someone severely."
+        },
+        {
+          "id": "012_002",
+          "as_written": "Disnargement",
+          "correct_spelling": "Disparagement",
+          "definition": "The act of speaking about someone in a negative or belittling way."
+        },
+        {
+          "id": "012_003",
+          "as_written": "Denigeration",
+          "correct_spelling": "Denigration",
+          "definition": "The action of unfairly criticizing someone or something."
+        },
+        {
+          "id": "012_004",
+          "as_written": "Obolo / Abloquy",
+          "correct_spelling": "Obloquy",
+          "definition": "Strong public criticism or verbal abuse."
+        },
+        {
+          "id": "012_005",
+          "as_written": "Haranque",
+          "correct_spelling": "Harangue",
+          "definition": "A lengthy and aggressive speech."
+        },
+        {
+          "id": "012_006",
+          "as_written": "Triade",
+          "correct_spelling": "Tirade",
+          "definition": "A long, angry speech of criticism or accusation."
+        },
+        {
+          "id": "012_007",
+          "as_written": "Denunciamation",
+          "correct_spelling": "Denunciation",
+          "definition": "Public condemnation of someone or something."
+        },
+        {
+          "id": "012_008",
+          "as_written": "Diatribe",
+          "correct_spelling": "Diatribe",
+          "definition": "A forceful and bitter verbal attack against someone or something."
+        },
+        {
+          "id": "012_009",
+          "as_written": "Vitupertition",
+          "correct_spelling": "Vituperation",
+          "definition": "Bitter and abusive language."
+        },
+        {
+          "id": "012_010",
+          "as_written": "Upbriade",
+          "correct_spelling": "Upbraid",
+          "definition": "To find fault with someone; scold."
+        },
+        {
+          "id": "012_011",
+          "as_written": "Censure",
+          "correct_spelling": "Censure",
+          "definition": "To express severe disapproval of someone or something, typically in a formal statement."
+        },
+        {
+          "id": "012_012",
+          "as_written": "Condmen",
+          "correct_spelling": "Condemn",
+          "definition": "To express complete disapproval of, typically in public."
+        },
+        {
+          "id": "012_013",
+          "as_written": "Abase / Debase / Base",
+          "correct_spelling": "Abase / Debase",
+          "definition": "Abase: To behave in a way that belittles or degrades someone. Debase: To reduce in quality or value."
+        },
+        {
+          "id": "012_014",
+          "as_written": "Admonish",
+          "correct_spelling": "Admonish",
+          "definition": "To warn or reprimand someone firmly."
+        },
+        {
+          "id": "012_015",
+          "as_written": "Rebuke",
+          "correct_spelling": "Rebuke",
+          "definition": "To express sharp disapproval or criticism of someone because of their behavior."
+        },
+        {
+          "id": "012_016",
+          "as_written": "Chide",
+          "correct_spelling": "Chide",
+          "definition": "To scold or rebuke."
+        },
+        {
+          "id": "012_017",
+          "as_written": "Invective",
+          "correct_spelling": "Invective",
+          "definition": "Insulting, abusive, or highly critical language."
+        },
+        {
+          "id": "012_018",
+          "as_written": "Excorgeration",
+          "correct_spelling": "Excoriation",
+          "definition": "Severe criticism; the act of censuring or scolding harshly."
+        },
+        {
+          "id": "012_019",
+          "as_written": "Peep",
+          "correct_spelling": "Carp / Jeer",
+          "definition": "Carp (to complain continually) or Jeer (to make rude/mocking remarks)."
+        },
+        {
+          "id": "012_020",
+          "as_written": "Stricture",
+          "correct_spelling": "Stricture",
+          "definition": "A sternly critical remark or instruction."
+        },
+        {
+          "id": "012_021",
+          "as_written": "To slight",
+          "correct_spelling": "Slight",
+          "definition": "To insult someone by treating or speaking of them without proper respect or attention."
+        },
+        {
+          "id": "012_022",
+          "as_written": "Polamyc",
+          "correct_spelling": "Polemic",
+          "definition": "A strong verbal or written attack on someone or something."
+        },
+        {
+          "id": "012_023",
+          "as_written": "Repuduation",
+          "correct_spelling": "Repudiation",
+          "definition": "Rejection of a proposal or idea."
+        },
+        {
+          "id": "012_024",
+          "as_written": "Reperhansion",
+          "correct_spelling": "Reprehension",
+          "definition": "Censure; reproof; the act of expressing disapproval."
+        },
+        {
+          "id": "012_025",
+          "as_written": "To Pan",
+          "correct_spelling": "Pan",
+          "definition": "To criticize severely (often used for reviews of movies or books)."
+        },
+        {
+          "id": "012_026",
+          "as_written": "Chatise",
+          "correct_spelling": "Chastise",
+          "definition": "To rebuke or reprimand severely."
+        },
+        {
+          "id": "012_027",
+          "as_written": "Lambste",
+          "correct_spelling": "Lambaste",
+          "definition": "To criticize someone or something harshly."
+        },
+        {
+          "id": "012_028",
+          "as_written": "Berate",
+          "correct_spelling": "Berate",
+          "definition": "To scold or criticize someone angrily."
+        },
+        {
+          "id": "012_029",
+          "as_written": "Scold",
+          "correct_spelling": "Scold",
+          "definition": "To remonstrate with or rebuke someone angrily."
+        },
+        {
+          "id": "012_030",
+          "as_written": "Excoriate",
+          "correct_spelling": "Excoriate",
+          "definition": "To censure or criticize severely."
+        },
+        {
+          "id": "012_031",
+          "as_written": "Reprove",
+          "correct_spelling": "Reprove",
+          "definition": "To reprimand or censure someone."
+        },
+        {
+          "id": "012_032",
+          "as_written": "Cominry",
+          "correct_spelling": "Calumny",
+          "definition": "The making of false and defamatory statements about someone in order to damage their reputation."
+        },
+        {
+          "id": "012_033",
+          "as_written": "Flugmination",
+          "correct_spelling": "Fulmination",
+          "definition": "An expression of vehement protest or denunciation."
+        },
+        {
+          "id": "012_034",
+          "as_written": "Ignominious",
+          "correct_spelling": "Ignominious",
+          "definition": "Deserving or causing public disgrace or shame."
+        },
+        {
+          "id": "012_035",
+          "as_written": "Railagainst",
+          "correct_spelling": "Rail against",
+          "definition": "To complain or protest strongly and persistently about someone or something."
+        },
+        {
+          "id": "012_036",
+          "as_written": "Odium",
+          "correct_spelling": "Odium",
+          "definition": "General or widespread hatred or disgust directed toward someone as a result of their actions."
+        },
+        {
+          "id": "012_037",
+          "as_written": "Oppro / Opprovium",
+          "correct_spelling": "Opprobrium",
+          "definition": "Harsh criticism or censure."
+        },
+        {
+          "id": "012_038",
+          "as_written": "Slander",
+          "correct_spelling": "Slander",
+          "definition": "The action or crime of making a false spoken statement damaging to a person's reputation."
+        },
+        {
+          "id": "012_039",
+          "as_written": "Villify",
+          "correct_spelling": "Vilify",
+          "definition": "To speak or write about in an abusively disparaging manner."
+        },
+        {
+          "id": "012_040",
+          "as_written": "Disgrace",
+          "correct_spelling": "Disgrace",
+          "definition": "Loss of reputation or respect as the result of a dishonorable action."
+        },
+        {
+          "id": "012_041",
+          "as_written": "Scurrilous",
+          "correct_spelling": "Scurrilous",
+          "definition": "Making or spreading scandalous claims about someone with the intention of damaging their reputation."
+        },
+        {
+          "id": "012_042",
+          "as_written": "Shame",
+          "correct_spelling": "Shame",
+          "definition": "A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior."
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "name": "13) Flattering",
+      "words": [
+        {
+          "id": "013_001",
+          "as_written": "Fawn",
+          "correct_spelling": "Fawn",
+          "definition": "To give a servile display of exaggerated flattery or affection, typically in order to gain favor."
+        },
+        {
+          "id": "013_002",
+          "as_written": "Coax",
+          "correct_spelling": "Coax",
+          "definition": "To gently and persistently persuade someone to do something."
+        },
+        {
+          "id": "013_003",
+          "as_written": "Cajole",
+          "correct_spelling": "Cajole",
+          "definition": "To persuade someone to do something by sustained coaxing or flattery."
+        },
+        {
+          "id": "013_004",
+          "as_written": "Wheedle",
+          "correct_spelling": "Wheedle",
+          "definition": "To use flattery or coaxing in order to persuade someone to do something or give one something."
+        },
+        {
+          "id": "013_005",
+          "as_written": "Adulation",
+          "correct_spelling": "Adulation",
+          "definition": "Obsequious flattery; excessive admiration or praise."
+        },
+        {
+          "id": "013_006",
+          "as_written": "Blandishment",
+          "correct_spelling": "Blandishment",
+          "definition": "A flattering or pleasing statement or action used to persuade someone gently to do something."
+        },
+        {
+          "id": "013_007",
+          "as_written": "Puffery",
+          "correct_spelling": "Puffery",
+          "definition": "Exaggerated or false praise."
+        },
+        {
+          "id": "013_008",
+          "as_written": "Obsecuse",
+          "correct_spelling": "Obsequious",
+          "definition": "Obedient or attentive to an excessive or servile degree."
+        },
+        {
+          "id": "013_009",
+          "as_written": "Sycophancy",
+          "correct_spelling": "Sycophancy",
+          "definition": "Obsequious behavior toward someone important in order to gain advantage."
+        },
+        {
+          "id": "013_010",
+          "as_written": "Buttliger",
+          "correct_spelling": "Bootlicker",
+          "definition": "A person who behaves in a highly obsequious manner."
+        },
+        {
+          "id": "013_011",
+          "as_written": "Toattes",
+          "correct_spelling": "Toady",
+          "definition": "A person who behaves obsequiously to someone important."
+        },
+        {
+          "id": "013_012",
+          "as_written": "Blarney",
+          "correct_spelling": "Blarney",
+          "definition": "Talk that aims to charm, pleasantly flatter, or persuade."
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "name": "14) Calm / Compose",
+      "words": [
+        {
+          "id": "014_001",
+          "as_written": "Equilibrium",
+          "correct_spelling": "Equilibrium",
+          "definition": "A state of physical or emotional balance."
+        },
+        {
+          "id": "014_002",
+          "as_written": "Equipoise",
+          "correct_spelling": "Equipoise",
+          "definition": "Balance of forces or interests."
+        },
+        {
+          "id": "014_003",
+          "as_written": "Equianimity",
+          "correct_spelling": "Equanimity",
+          "definition": "Mental calmness, composure, and evenness of temper, especially in a difficult situation."
+        },
+        {
+          "id": "014_004",
+          "as_written": "Stasis",
+          "correct_spelling": "Stasis",
+          "definition": "A period or state of inactivity or equilibrium."
+        },
+        {
+          "id": "014_005",
+          "as_written": "Sangfroid",
+          "correct_spelling": "Sangfroid",
+          "definition": "Composure or coolness, sometimes excessive, as shown in danger or under trying circumstances."
+        },
+        {
+          "id": "014_006",
+          "as_written": "Serterin",
+          "correct_spelling": "Serenity",
+          "definition": "The state of being calm, peaceful, and untroubled."
+        },
+        {
+          "id": "014_007",
+          "as_written": "Seren",
+          "correct_spelling": "Serene",
+          "definition": "Calm, peaceful, and untroubled; tranquil."
+        },
+        {
+          "id": "014_008",
+          "as_written": "Tranquil",
+          "correct_spelling": "Tranquil",
+          "definition": "Free from disturbance; calm."
+        },
+        {
+          "id": "014_009",
+          "as_written": "Repose",
+          "correct_spelling": "Repose",
+          "definition": "A state of rest, sleep, or tranquility."
+        },
+        {
+          "id": "014_010",
+          "as_written": "Placid",
+          "correct_spelling": "Placid",
+          "definition": "Not easily upset or excited; calm and peaceful."
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "name": "15) Immoral",
+      "words": [
+        {
+          "id": "015_001",
+          "as_written": "Libertine",
+          "correct_spelling": "Libertine",
+          "definition": "A person, especially a man, who behaves without moral principles or a sense of responsibility."
+        },
+        {
+          "id": "015_002",
+          "as_written": "Resoluties",
+          "correct_spelling": "Dissolute",
+          "definition": "Lax in morals; licentious."
+        },
+        {
+          "id": "015_003",
+          "as_written": "Dissciption",
+          "correct_spelling": "Dissipation",
+          "definition": "Squandering of money, energy, or resources; overindulgence in sensual pleasures."
+        },
+        {
+          "id": "015_004",
+          "as_written": "Debaachawy",
+          "correct_spelling": "Debauchery",
+          "definition": "Excessive indulgence in sensual pleasures."
+        },
+        {
+          "id": "015_005",
+          "as_written": "Promiscuous",
+          "correct_spelling": "Promiscuous",
+          "definition": "Having or characterized by many transient sexual relationships."
+        },
+        {
+          "id": "015_006",
+          "as_written": "Deproved",
+          "correct_spelling": "Depraved",
+          "definition": "Morally corrupt; wicked."
+        },
+        {
+          "id": "015_007",
+          "as_written": "Wanton",
+          "correct_spelling": "Wanton",
+          "definition": "(Of a cruel or violent action) deliberate and unprovoked; sexually immodest or promiscuous."
+        },
+        {
+          "id": "015_008",
+          "as_written": "Licention",
+          "correct_spelling": "Licentious",
+          "definition": "Promiscuous and unprincipled in sexual matters."
+        }
+      ]
+    }
+  ]
+}
