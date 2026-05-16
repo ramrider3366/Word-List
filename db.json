@@ -1373,6 +1373,1524 @@
           "definition": "Promiscuous and unprincipled in sexual matters."
         }
       ]
+    },
+    {
+      "id": "017",
+      "name": "17) Highheaded / Dominary / Bossy",
+      "words": [
+        {
+          "id": "017_001",
+          "as_written": "Bossy",
+          "correct_spelling": "Bossy",
+          "definition": "Fond of giving people orders; domineering."
+        },
+        {
+          "id": "017_002",
+          "as_written": "Absolute",
+          "correct_spelling": "Absolute",
+          "definition": "Not qualified or diminished in any way; total."
+        },
+        {
+          "id": "017_003",
+          "as_written": "Authoritarian",
+          "correct_spelling": "Authoritarian",
+          "definition": "Enforcing strict obedience to authority, especially that of the government, at the expense of personal freedom."
+        },
+        {
+          "id": "017_004",
+          "as_written": "Oppresive",
+          "correct_spelling": "Oppressive",
+          "definition": "Unjustly inflicting hardship and constraint, especially on a minority or other subordinate group."
+        },
+        {
+          "id": "017_005",
+          "as_written": "Autocratico",
+          "correct_spelling": "Autocratic",
+          "definition": "Relating to a ruler who has absolute power."
+        },
+        {
+          "id": "017_006",
+          "as_written": "Dictatorial",
+          "correct_spelling": "Dictatorial",
+          "definition": "Of or typical of a ruler with total power."
+        },
+        {
+          "id": "017_007",
+          "as_written": "Coercive",
+          "correct_spelling": "Coercive",
+          "definition": "Relating to or using force or threats."
+        },
+        {
+          "id": "017_008",
+          "as_written": "Tyrannical",
+          "correct_spelling": "Tyrannical",
+          "definition": "Exercising power in a cruel or arbitrary way."
+        },
+        {
+          "id": "017_009",
+          "as_written": "Desphotic",
+          "correct_spelling": "Despotic",
+          "definition": "Of or typical of a despot; tyrannical."
+        },
+        {
+          "id": "017_010",
+          "as_written": "Majestorial",
+          "correct_spelling": "Magisterial",
+          "definition": "Having or showing great authority."
+        },
+        {
+          "id": "017_011",
+          "as_written": "Imperious",
+          "correct_spelling": "Imperious",
+          "definition": "Assuming power or authority without justification; arrogant and domineering."
+        },
+        {
+          "id": "017_012",
+          "as_written": "Facist",
+          "correct_spelling": "Fascist",
+          "definition": "An advocate or follower of fascism; highly authoritarian or intolerant."
+        },
+        {
+          "id": "017_013",
+          "as_written": "Hagemoni",
+          "correct_spelling": "Hegemonic",
+          "definition": "Ruling or dominant in a political or social context."
+        },
+        {
+          "id": "017_014",
+          "as_written": "Totalitarias",
+          "correct_spelling": "Totalitarian",
+          "definition": "Relating to a system of government that is centralized and dictatorial."
+        },
+        {
+          "id": "017_015",
+          "as_written": "Dogmatic",
+          "correct_spelling": "Dogmatic",
+          "definition": "Inclined to lay down principles as incontrovertibly true."
+        },
+        {
+          "id": "017_016",
+          "as_written": "Dictactor",
+          "correct_spelling": "Dictator",
+          "definition": "A ruler with total power over a country."
+        },
+        {
+          "id": "017_017",
+          "as_written": "Bignot",
+          "correct_spelling": "Bigot",
+          "definition": "A person who is obstinately or unreasonably attached to a belief, opinion, or faction."
+        },
+        {
+          "id": "017_018",
+          "as_written": "Arbitrator",
+          "correct_spelling": "Arbitrator",
+          "definition": "An independent person or body officially appointed to settle a dispute."
+        },
+        {
+          "id": "017_019",
+          "as_written": "Arbitation",
+          "correct_spelling": "Arbitration",
+          "definition": "The use of an arbitrator to settle a dispute."
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "name": "18) New / Young / Begining / Heading",
+      "words": [
+        {
+          "id": "018_001",
+          "as_written": "Inceptition",
+          "correct_spelling": "Inception",
+          "definition": "The establishment or starting point of an institution or activity."
+        },
+        {
+          "id": "018_002",
+          "as_written": "Comensment",
+          "correct_spelling": "Commencement",
+          "definition": "A beginning or start."
+        },
+        {
+          "id": "018_003",
+          "as_written": "Concept Onset",
+          "correct_spelling": "Onset",
+          "definition": "The beginning of something, especially something unpleasant."
+        },
+        {
+          "id": "018_004",
+          "as_written": "Outset",
+          "correct_spelling": "Outset",
+          "definition": "The start or beginning of something."
+        },
+        {
+          "id": "018_005",
+          "as_written": "Pedigree",
+          "correct_spelling": "Pedigree",
+          "definition": "The record of descent of an animal or person."
+        },
+        {
+          "id": "018_006",
+          "as_written": "Genesis",
+          "correct_spelling": "Genesis",
+          "definition": "The origin or mode of formation of something."
+        },
+        {
+          "id": "018_007",
+          "as_written": "Nascency",
+          "correct_spelling": "Nascency",
+          "definition": "The state of being born or coming into existence."
+        },
+        {
+          "id": "018_008",
+          "as_written": "Incipient",
+          "correct_spelling": "Incipient",
+          "definition": "In an initial stage; beginning to happen or develop."
+        },
+        {
+          "id": "018_009",
+          "as_written": "Rudimontry",
+          "correct_spelling": "Rudimentary",
+          "definition": "Involving or limited to basic principles; immature or undeveloped."
+        },
+        {
+          "id": "018_010",
+          "as_written": "Embrionic",
+          "correct_spelling": "Embryonic",
+          "definition": "In a rudimentary stage with potential for further development."
+        },
+        {
+          "id": "018_011",
+          "as_written": "Buding",
+          "correct_spelling": "Budding",
+          "definition": "Beginning to develop or show signs of future potential."
+        },
+        {
+          "id": "018_012",
+          "as_written": "Precursor",
+          "correct_spelling": "Precursor",
+          "definition": "A person or thing that comes before another of the same kind."
+        },
+        {
+          "id": "018_013",
+          "as_written": "Inchoate",
+          "correct_spelling": "Inchoate",
+          "definition": "Just begun and so not fully formed or developed."
+        },
+        {
+          "id": "018_014",
+          "as_written": "Gny Encyphase",
+          "correct_spelling": "Greenhorn",
+          "definition": "A person who is new to or inexperienced at a particular activity."
+        },
+        {
+          "id": "018_015",
+          "as_written": "Amator",
+          "correct_spelling": "Amateur",
+          "definition": "A person who engages in a pursuit on an unpaid basis."
+        },
+        {
+          "id": "018_016",
+          "as_written": "Diletant",
+          "correct_spelling": "Dilettante",
+          "definition": "A person who cultivates an area of interest without real commitment or knowledge."
+        },
+        {
+          "id": "018_017",
+          "as_written": "Fledgling",
+          "correct_spelling": "Fledgling",
+          "definition": "A person or organization that is immature, inexperienced, or underdeveloped."
+        },
+        {
+          "id": "018_018",
+          "as_written": "Debutant",
+          "correct_spelling": "Debutante",
+          "definition": "A young person making their first appearance in society."
+        },
+        {
+          "id": "018_019",
+          "as_written": "Lay Person",
+          "correct_spelling": "Layperson",
+          "definition": "A person without professional or specialized knowledge in a particular subject."
+        },
+        {
+          "id": "018_020",
+          "as_written": "Primitive",
+          "correct_spelling": "Primitive",
+          "definition": "Relating to, denoting, or preserving the character of an early stage in evolutionary or historical development."
+        },
+        {
+          "id": "018_021",
+          "as_written": "Pristine",
+          "correct_spelling": "Pristine",
+          "definition": "In its original condition; unspoiled."
+        },
+        {
+          "id": "018_022",
+          "as_written": "Primordial",
+          "correct_spelling": "Primordial",
+          "definition": "Existing at or from the beginning of time; primeval."
+        },
+        {
+          "id": "018_023",
+          "as_written": "Internship",
+          "correct_spelling": "Internship",
+          "definition": "The position of a student or trainee who works in an organization."
+        },
+        {
+          "id": "018_024",
+          "as_written": "Apperentise",
+          "correct_spelling": "Apprentice",
+          "definition": "A person who is learning a trade from a skilled employer."
+        },
+        {
+          "id": "018_025",
+          "as_written": "Novice",
+          "correct_spelling": "Novice",
+          "definition": "A person new to or inexperienced in a field or situation."
+        },
+        {
+          "id": "018_026",
+          "as_written": "Parvanue",
+          "correct_spelling": "Parvenu",
+          "definition": "A person of obscure origin who has gained wealth, influence, or celebrity."
+        },
+        {
+          "id": "018_027",
+          "as_written": "Burgian",
+          "correct_spelling": "Burgeon",
+          "definition": "Begin to grow or increase rapidly; flourish."
+        },
+        {
+          "id": "018_028",
+          "as_written": "Toddler",
+          "correct_spelling": "Toddler",
+          "definition": "A young child who is just beginning to walk."
+        },
+        {
+          "id": "018_029",
+          "as_written": "Infancy",
+          "correct_spelling": "Infancy",
+          "definition": "The state or period of early childhood or babyhood."
+        },
+        {
+          "id": "018_030",
+          "as_written": "Noviate",
+          "correct_spelling": "Novitiate",
+          "definition": "The period or state of being a novice."
+        },
+        {
+          "id": "018_031",
+          "as_written": "Proselyte",
+          "correct_spelling": "Proselyte",
+          "definition": "A person who has converted from one opinion, religion, or party to another."
+        },
+        {
+          "id": "018_032",
+          "as_written": "Neophyte",
+          "correct_spelling": "Neophyte",
+          "definition": "A person who is new to a subject, skill, or belief."
+        },
+        {
+          "id": "018_033",
+          "as_written": "Verdant",
+          "correct_spelling": "Verdant",
+          "definition": "Green with grass; (figuratively) inexperienced."
+        },
+        {
+          "id": "018_034",
+          "as_written": "Tyro",
+          "correct_spelling": "Tyro",
+          "definition": "A beginner or novice."
+        },
+        {
+          "id": "018_035",
+          "as_written": "Callow",
+          "correct_spelling": "Callow",
+          "definition": "Inexperienced and immature."
+        },
+        {
+          "id": "018_036",
+          "as_written": "Engender",
+          "correct_spelling": "Engender",
+          "definition": "Cause or give rise to a feeling, situation, or condition."
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "name": "19) Spending / Frugal",
+      "words": [
+        {
+          "id": "019_001",
+          "as_written": "Frugal",
+          "correct_spelling": "Frugal",
+          "definition": "Sparing or economical with regard to money or food."
+        },
+        {
+          "id": "019_002",
+          "as_written": "Mizer",
+          "correct_spelling": "Miser",
+          "definition": "A person who hoards wealth and spends as little money as possible."
+        },
+        {
+          "id": "019_003",
+          "as_written": "Stingy",
+          "correct_spelling": "Stingy",
+          "definition": "Unwilling to give or spend; ungenerous."
+        },
+        {
+          "id": "019_004",
+          "as_written": "Parcimonios",
+          "correct_spelling": "Parsimonious",
+          "definition": "Unwilling to spend money or use resources; stingy or frugal."
+        },
+        {
+          "id": "019_005",
+          "as_written": "Mean",
+          "correct_spelling": "Mean",
+          "definition": "Unwilling to give or share things, especially money; not generous."
+        },
+        {
+          "id": "019_006",
+          "as_written": "Pinnypinchig",
+          "correct_spelling": "Pennypinching",
+          "definition": "Unwilling to spend money."
+        },
+        {
+          "id": "019_007",
+          "as_written": "Niggardly",
+          "correct_spelling": "Niggardly",
+          "definition": "Not generous; stingy."
+        },
+        {
+          "id": "019_008",
+          "as_written": "Penurious",
+          "correct_spelling": "Penurious",
+          "definition": "Extremely poor; poverty-stricken, or parsimonious."
+        },
+        {
+          "id": "019_009",
+          "as_written": "Husbandry",
+          "correct_spelling": "Husbandry",
+          "definition": "Management and conservation of resources."
+        },
+        {
+          "id": "019_010",
+          "as_written": "Canny",
+          "correct_spelling": "Canny",
+          "definition": "Having or showing shrewdness and good judgment, especially in money or business matters."
+        },
+        {
+          "id": "019_011",
+          "as_written": "Husband",
+          "correct_spelling": "Husband",
+          "definition": "To use resources economically."
+        },
+        {
+          "id": "019_012",
+          "as_written": "Close Fisted",
+          "correct_spelling": "Close-fisted",
+          "definition": "Not willing to spend or give much money; stingy."
+        },
+        {
+          "id": "019_013",
+          "as_written": "Tight Fisted",
+          "correct_spelling": "Tight-fisted",
+          "definition": "Not willing to spend or give much money; stingy."
+        },
+        {
+          "id": "019_014",
+          "as_written": "prudent",
+          "correct_spelling": "Prudent",
+          "definition": "Acting with or showing care and thought for the future."
+        },
+        {
+          "id": "019_015",
+          "as_written": "thrifty",
+          "correct_spelling": "Thrifty",
+          "definition": "Using money and other resources carefully and not wastefully."
+        },
+        {
+          "id": "019_016",
+          "as_written": "provident",
+          "correct_spelling": "Provident",
+          "definition": "Making or indicating timely preparation for the future."
+        },
+        {
+          "id": "019_017",
+          "as_written": "reserve",
+          "correct_spelling": "Reserve",
+          "definition": "A supply of a commodity not needed for immediate use but available if required."
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "name": "20) Spendthrift / Extravagant",
+      "words": [
+        {
+          "id": "020_001",
+          "as_written": "Extravagent",
+          "correct_spelling": "Extravagant",
+          "definition": "Lacking restraint in spending money or using resources."
+        },
+        {
+          "id": "020_002",
+          "as_written": "Prodigal",
+          "correct_spelling": "Prodigal",
+          "definition": "Spending money or resources freely and recklessly; wastefully extravagant."
+        },
+        {
+          "id": "020_003",
+          "as_written": "Squander",
+          "correct_spelling": "Squander",
+          "definition": "Waste something, especially money or time, in a reckless and foolish manner."
+        },
+        {
+          "id": "020_004",
+          "as_written": "Wastrel",
+          "correct_spelling": "Wastrel",
+          "definition": "A wasteful or good-for-nothing person."
+        },
+        {
+          "id": "020_005",
+          "as_written": "Opulance",
+          "correct_spelling": "Opulence",
+          "definition": "Great wealth or luxuriousness."
+        },
+        {
+          "id": "020_006",
+          "as_written": "Sparing",
+          "correct_spelling": "Sparing",
+          "definition": "Moderate; economical."
+        },
+        {
+          "id": "020_007",
+          "as_written": "Profligate",
+          "correct_spelling": "Profligate",
+          "definition": "Recklessly extravagant or wasteful in the use of resources."
+        },
+        {
+          "id": "020_008",
+          "as_written": "Plathora",
+          "correct_spelling": "Plethora",
+          "definition": "A large or excessive amount of something."
+        },
+        {
+          "id": "020_009",
+          "as_written": "Affluence",
+          "correct_spelling": "Affluence",
+          "definition": "The state of having a great deal of money; wealth."
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "name": "21) Lazy / Dull",
+      "words": [
+        {
+          "id": "021_001",
+          "as_written": "Langore",
+          "correct_spelling": "Languor",
+          "definition": "The state or feeling, often pleasant, of tiredness or inertia."
+        },
+        {
+          "id": "021_002",
+          "as_written": "Sludis",
+          "correct_spelling": "Sluggish",
+          "definition": "Slow-moving or inactive."
+        },
+        {
+          "id": "021_003",
+          "as_written": "Lackluster",
+          "correct_spelling": "Lackluster",
+          "definition": "Lacking in vitality, force, or conviction."
+        },
+        {
+          "id": "021_004",
+          "as_written": "Indolence",
+          "correct_spelling": "Indolence",
+          "definition": "Avoidance of activity or exertion; laziness."
+        },
+        {
+          "id": "021_005",
+          "as_written": "Slothful",
+          "correct_spelling": "Slothful",
+          "definition": "Lazy."
+        },
+        {
+          "id": "021_006",
+          "as_written": "Idele",
+          "correct_spelling": "Idle",
+          "definition": "Avoiding work; lazy."
+        },
+        {
+          "id": "021_007",
+          "as_written": "Torpid",
+          "correct_spelling": "Torpid",
+          "definition": "Mentally or physically inactive; lethargic."
+        },
+        {
+          "id": "021_008",
+          "as_written": "Lethargic",
+          "correct_spelling": "Lethargic",
+          "definition": "Affected by lethargy; sluggish and apathetic."
+        },
+        {
+          "id": "021_009",
+          "as_written": "Remiss",
+          "correct_spelling": "Remiss",
+          "definition": "Lacking care or attention to duty; negligent."
+        },
+        {
+          "id": "021_010",
+          "as_written": "Drowcy",
+          "correct_spelling": "Drowsy",
+          "definition": "Sleepy and lethargic; half asleep."
+        },
+        {
+          "id": "021_011",
+          "as_written": "Somolument",
+          "correct_spelling": "Somnolent",
+          "definition": "Sleepy; drowsy."
+        },
+        {
+          "id": "021_012",
+          "as_written": "Languid",
+          "correct_spelling": "Languid",
+          "definition": "Displaying or having a disinclination for physical exertion or effort."
+        },
+        {
+          "id": "021_013",
+          "as_written": "Lacadiaisical",
+          "correct_spelling": "Lackadaisical",
+          "definition": "Lacking enthusiasm and determination; carelessly lazy."
+        },
+        {
+          "id": "021_014",
+          "as_written": "Dormant",
+          "correct_spelling": "Dormant",
+          "definition": "Temporarily inactive."
+        },
+        {
+          "id": "021_015",
+          "as_written": "Slack",
+          "correct_spelling": "Slack",
+          "definition": "Not taut or held tightly in position; loose."
+        },
+        {
+          "id": "021_016",
+          "as_written": "Sloppy",
+          "correct_spelling": "Sloppy",
+          "definition": "Careless and unsystematic; excessively casual."
+        },
+        {
+          "id": "021_017",
+          "as_written": "Neglient",
+          "correct_spelling": "Negligent",
+          "definition": "Failing to take proper care in doing something."
+        },
+        {
+          "id": "021_018",
+          "as_written": "heedless",
+          "correct_spelling": "Heedless",
+          "definition": "Showing a reckless lack of care or attention."
+        },
+        {
+          "id": "021_019",
+          "as_written": "Derelict",
+          "correct_spelling": "Derelict",
+          "definition": "In a very poor condition as a result of disuse and neglect."
+        },
+        {
+          "id": "021_020",
+          "as_written": "Slapdash",
+          "correct_spelling": "Slapdash",
+          "definition": "Done too hurriedly and carelessly."
+        },
+        {
+          "id": "021_021",
+          "as_written": "Tardy",
+          "correct_spelling": "Tardy",
+          "definition": "Delaying or delayed beyond the right or expected time; late."
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "name": "22) Death / Mourning / Gloomy",
+      "words": [
+        {
+          "id": "022_001",
+          "as_written": "Bereave",
+          "correct_spelling": "Bereave",
+          "definition": "Be deprived of a loved one through a profound absence, especially due to the loved one's death."
+        },
+        {
+          "id": "022_002",
+          "as_written": "Cadavar",
+          "correct_spelling": "Cadaver",
+          "definition": "A corpse."
+        },
+        {
+          "id": "022_003",
+          "as_written": "Demise",
+          "correct_spelling": "Demise",
+          "definition": "A person's death."
+        },
+        {
+          "id": "022_004",
+          "as_written": "Dolorous",
+          "correct_spelling": "Dolorous",
+          "definition": "Feeling or expressing great sorrow or distress."
+        },
+        {
+          "id": "022_005",
+          "as_written": "Dirge",
+          "correct_spelling": "Dirge",
+          "definition": "A lament for the dead, especially one forming part of a funeral rite."
+        },
+        {
+          "id": "022_006",
+          "as_written": "Lament",
+          "correct_spelling": "Lament",
+          "definition": "A passionate expression of grief or sorrow."
+        },
+        {
+          "id": "022_007",
+          "as_written": "Macabre",
+          "correct_spelling": "Macabre",
+          "definition": "Disturbing and horrifying because of involvement with or depiction of death and injury."
+        },
+        {
+          "id": "022_008",
+          "as_written": "Moribund",
+          "correct_spelling": "Moribund",
+          "definition": "At the point of death."
+        },
+        {
+          "id": "022_009",
+          "as_written": "Tomb",
+          "correct_spelling": "Tomb",
+          "definition": "A large vault, typically an underground one, for burying the dead."
+        },
+        {
+          "id": "022_010",
+          "as_written": "Lugubrious",
+          "correct_spelling": "Lugubrious",
+          "definition": "Looking or sounding sad and dismal."
+        },
+        {
+          "id": "022_011",
+          "as_written": "Woeful",
+          "correct_spelling": "Woeful",
+          "definition": "Characterized by, expressive of, or causing sorrow or misery."
+        },
+        {
+          "id": "022_012",
+          "as_written": "Somber",
+          "correct_spelling": "Somber",
+          "definition": "Dark or dull in color or tone; gloomy."
+        },
+        {
+          "id": "022_013",
+          "as_written": "Melancholy",
+          "correct_spelling": "Melancholy",
+          "definition": "A feeling of pensive sadness, typically with no obvious cause."
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "name": "23) Prediction / Luck / Lucky",
+      "words": [
+        {
+          "id": "023_001",
+          "as_written": "Adventitious",
+          "correct_spelling": "Adventitious",
+          "definition": "Happening or carried on according to chance rather than design or inherent nature."
+        },
+        {
+          "id": "023_002",
+          "as_written": "Amulet",
+          "correct_spelling": "Amulet",
+          "definition": "An ornament or small piece of jewelry thought to give protection against evil, danger, or disease."
+        },
+        {
+          "id": "023_003",
+          "as_written": "Auspicious",
+          "correct_spelling": "Auspicious",
+          "definition": "Conducive to success; favorable."
+        },
+        {
+          "id": "023_004",
+          "as_written": "Fortuitous",
+          "correct_spelling": "Fortuitous",
+          "definition": "Happening by accident or chance rather than design."
+        },
+        {
+          "id": "023_005",
+          "as_written": "Kismet",
+          "correct_spelling": "Kismet",
+          "definition": "Destiny; fate."
+        },
+        {
+          "id": "023_006",
+          "as_written": "Portentous",
+          "correct_spelling": "Portentous",
+          "definition": "Of or like a portent; done in a pompously or overly solemn manner so as to impress."
+        },
+        {
+          "id": "023_007",
+          "as_written": "Propitiate",
+          "correct_spelling": "Propitiate",
+          "definition": "Win or regain favor."
+        },
+        {
+          "id": "023_008",
+          "as_written": "Portent",
+          "correct_spelling": "Portent",
+          "definition": "A sign or warning that something, especially something momentous or calamitous, is likely to happen."
+        },
+        {
+          "id": "023_009",
+          "as_written": "Provenditial",
+          "correct_spelling": "Providential",
+          "definition": "Occurring at a favorable time; opportune."
+        },
+        {
+          "id": "023_010",
+          "as_written": "Serendipity",
+          "correct_spelling": "Serendipity",
+          "definition": "The occurrence and development of events by chance in a happy or beneficial way."
+        },
+        {
+          "id": "023_011",
+          "as_written": "Talisman",
+          "correct_spelling": "Talisman",
+          "definition": "An object, typically an inscribed ring or stone, that is thought to have magic powers and to bring good luck."
+        },
+        {
+          "id": "023_012",
+          "as_written": "Vicistude",
+          "correct_spelling": "Vicissitude",
+          "definition": "A change of circumstances or fortune, typically one that is unwelcome or unpleasant."
+        }
+      ]
+    },
+    {
+      "id": "024",
+      "name": "24) Time / duration / order",
+      "words": [
+        {
+          "id": "024_001",
+          "as_written": "Anacronishm",
+          "correct_spelling": "Anachronism",
+          "definition": "A thing belonging or appropriate to a period other than that in which it exists."
+        },
+        {
+          "id": "024_002",
+          "as_written": "Antiquated",
+          "correct_spelling": "Antiquated",
+          "definition": "Old-fashioned or outdated."
+        },
+        {
+          "id": "024_003",
+          "as_written": "Antedate",
+          "correct_spelling": "Antedate",
+          "definition": "Precede in time; come before something in date."
+        },
+        {
+          "id": "024_004",
+          "as_written": "Anterior",
+          "correct_spelling": "Anterior",
+          "definition": "Coming before in time; earlier."
+        },
+        {
+          "id": "024_005",
+          "as_written": "Archaic",
+          "correct_spelling": "Archaic",
+          "definition": "Very old or old-fashioned."
+        },
+        {
+          "id": "024_006",
+          "as_written": "Eon",
+          "correct_spelling": "Eon",
+          "definition": "An indefinite and very long period of time."
+        },
+        {
+          "id": "024_007",
+          "as_written": "Epoch",
+          "correct_spelling": "Epoch",
+          "definition": "A period of time in history or a person's life, typically one marked by notable events or particular characteristics."
+        }
+      ]
+    },
+    {
+      "id": "025",
+      "name": "25) Not a Straight Line",
+      "words": [
+        {
+          "id": "025_001",
+          "as_written": "Winding",
+          "correct_spelling": "Winding",
+          "definition": "Following a twisting or spiral course."
+        },
+        {
+          "id": "025_002",
+          "as_written": "Careen",
+          "correct_spelling": "Careen",
+          "definition": "Move swiftly and in an uncontrolled way in a specified direction."
+        },
+        {
+          "id": "025_003",
+          "as_written": "Circuitous",
+          "correct_spelling": "Circuitous",
+          "definition": "Longer than the most direct way."
+        },
+        {
+          "id": "025_004",
+          "as_written": "Circumvent",
+          "correct_spelling": "Circumvent",
+          "definition": "Find a way around an obstacle."
+        },
+        {
+          "id": "025_005",
+          "as_written": "Labreanth",
+          "correct_spelling": "Labyrinth",
+          "definition": "A complicated irregular network of passages or paths in which it is difficult to find one's way."
+        },
+        {
+          "id": "025_006",
+          "as_written": "Maze",
+          "correct_spelling": "Maze",
+          "definition": "A network of paths and hedges designed as a puzzle through which one has to find a way."
+        },
+        {
+          "id": "025_007",
+          "as_written": "Meander",
+          "correct_spelling": "Meander",
+          "definition": "Follow a winding course."
+        },
+        {
+          "id": "025_008",
+          "as_written": "Serpentine",
+          "correct_spelling": "Serpentine",
+          "definition": "Of or like a serpent or snake; winding and twisting."
+        },
+        {
+          "id": "025_009",
+          "as_written": "Sinuous",
+          "correct_spelling": "Sinuous",
+          "definition": "Having many curves and turns."
+        },
+        {
+          "id": "025_010",
+          "as_written": "Crooked",
+          "correct_spelling": "Crooked",
+          "definition": "Bent or twisted out of shape or out of place."
+        },
+        {
+          "id": "025_011",
+          "as_written": "Oblique",
+          "correct_spelling": "Oblique",
+          "definition": "Neither parallel nor at a right angle to a specified or implied line; slanting."
+        },
+        {
+          "id": "025_012",
+          "as_written": "Askance",
+          "correct_spelling": "Askance",
+          "definition": "With an attitude or look of suspicion or disapproval."
+        },
+        {
+          "id": "025_013",
+          "as_written": "Digress",
+          "correct_spelling": "Digress",
+          "definition": "Leave the main subject temporarily in speech or writing."
+        },
+        {
+          "id": "025_014",
+          "as_written": "Undulating",
+          "correct_spelling": "Undulating",
+          "definition": "Having a smoothly rising and falling form or outline."
+        },
+        {
+          "id": "025_015",
+          "as_written": "Discourse",
+          "correct_spelling": "Discourse",
+          "definition": "Written or spoken communication or debate. (May be written incorrectly for 'Discursive')."
+        },
+        {
+          "id": "025_016",
+          "as_written": "Askew",
+          "correct_spelling": "Askew",
+          "definition": "Not in a straight or level position."
+        },
+        {
+          "id": "025_017",
+          "as_written": "Awry",
+          "correct_spelling": "Awry",
+          "definition": "Away from the appropriate, planned, or expected course; amiss."
+        }
+      ]
+    },
+    {
+      "id": "026",
+      "name": "26) Wandering",
+      "words": [
+        {
+          "id": "026_001",
+          "as_written": "Ambulatory",
+          "correct_spelling": "Ambulatory",
+          "definition": "Relating to or adapted for walking."
+        },
+        {
+          "id": "026_002",
+          "as_written": "Itinerante",
+          "correct_spelling": "Itinerant",
+          "definition": "Traveling from place to place."
+        },
+        {
+          "id": "026_003",
+          "as_written": "Peripatetic",
+          "correct_spelling": "Peripatetic",
+          "definition": "Traveling from place to place, in particular working or based in various places for relatively short periods."
+        },
+        {
+          "id": "026_004",
+          "as_written": "Peregrination",
+          "correct_spelling": "Peregrination",
+          "definition": "A journey, especially a long or meandering one."
+        },
+        {
+          "id": "026_005",
+          "as_written": "Sojourn",
+          "correct_spelling": "Sojourn",
+          "definition": "A temporary stay."
+        },
+        {
+          "id": "026_006",
+          "as_written": "Intrusion",
+          "correct_spelling": "Intrusion",
+          "definition": "The action of intruding."
+        },
+        {
+          "id": "026_007",
+          "as_written": "Detour",
+          "correct_spelling": "Detour",
+          "definition": "A long or roundabout route that is taken to avoid something or to visit somewhere along the way."
+        },
+        {
+          "id": "026_008",
+          "as_written": "Hike",
+          "correct_spelling": "Hike",
+          "definition": "A long walk, especially in the country or wilderness."
+        },
+        {
+          "id": "026_009",
+          "as_written": "Meander",
+          "correct_spelling": "Meander",
+          "definition": "Wander at random."
+        },
+        {
+          "id": "026_010",
+          "as_written": "Stroll",
+          "correct_spelling": "Stroll",
+          "definition": "Walk in a leisurely way."
+        }
+      ]
+    },
+    {
+      "id": "027",
+      "name": "27) Withdrawl / Give Up",
+      "words": [
+        {
+          "id": "027_001",
+          "as_written": "Abjure",
+          "correct_spelling": "Abjure",
+          "definition": "Solemnly renounce a belief, cause, or claim."
+        },
+        {
+          "id": "027_002",
+          "as_written": "Abdicate",
+          "correct_spelling": "Abdicate",
+          "definition": "Renounce one's throne."
+        },
+        {
+          "id": "027_003",
+          "as_written": "Abatove",
+          "correct_spelling": "Abortive",
+          "definition": "Failing to produce the intended result."
+        },
+        {
+          "id": "027_004",
+          "as_written": "Decamp",
+          "correct_spelling": "Decamp",
+          "definition": "Depart suddenly or secretly."
+        },
+        {
+          "id": "027_005",
+          "as_written": "Recant",
+          "correct_spelling": "Recant",
+          "definition": "Say that one no longer holds an opinion or belief."
+        },
+        {
+          "id": "027_006",
+          "as_written": "Remission",
+          "correct_spelling": "Remission",
+          "definition": "The cancellation of a debt, charge, or penalty."
+        },
+        {
+          "id": "027_007",
+          "as_written": "Rescind",
+          "correct_spelling": "Rescind",
+          "definition": "Revoke, cancel, or repeal a law, order, or agreement."
+        },
+        {
+          "id": "027_008",
+          "as_written": "Renege",
+          "correct_spelling": "Renege",
+          "definition": "Go back on a promise, undertaking, or contract."
+        },
+        {
+          "id": "027_009",
+          "as_written": "Retrograde",
+          "correct_spelling": "Retrograde",
+          "definition": "Directed or moving backward."
+        },
+        {
+          "id": "027_010",
+          "as_written": "Retract",
+          "correct_spelling": "Retract",
+          "definition": "Draw or be drawn back or back in."
+        },
+        {
+          "id": "027_011",
+          "as_written": "Repeal",
+          "correct_spelling": "Repeal",
+          "definition": "Revoke or annul a law or congressional act."
+        },
+        {
+          "id": "027_012",
+          "as_written": "Overturn",
+          "correct_spelling": "Overturn",
+          "definition": "Abolish, invalidate, or reverse a previous system, decision, situation, etc."
+        },
+        {
+          "id": "027_013",
+          "as_written": "Countermand",
+          "correct_spelling": "Countermand",
+          "definition": "Revoke an order."
+        },
+        {
+          "id": "027_014",
+          "as_written": "Recall",
+          "correct_spelling": "Recall",
+          "definition": "Bring a fact, event, or situation back into one's mind; officially order to return."
+        },
+        {
+          "id": "027_015",
+          "as_written": "Retreat",
+          "correct_spelling": "Retreat",
+          "definition": "Withdraw from enemy forces as a result of their superior power or after a defeat."
+        },
+        {
+          "id": "027_016",
+          "as_written": "Annul",
+          "correct_spelling": "Annul",
+          "definition": "Declare invalid."
+        },
+        {
+          "id": "027_017",
+          "as_written": "Revoke",
+          "correct_spelling": "Revoke",
+          "definition": "Put an end to the validity or operation of a decree, decision, or promise."
+        },
+        {
+          "id": "027_018",
+          "as_written": "Cede",
+          "correct_spelling": "Cede",
+          "definition": "Give up power or territory."
+        }
+      ]
+    },
+    {
+      "id": "028",
+      "name": "28) Pacify / Satisfy / Calamdown",
+      "words": [
+        {
+          "id": "028_001",
+          "as_written": "Ameloorate",
+          "correct_spelling": "Ameliorate",
+          "definition": "Make something bad or unsatisfactory better."
+        },
+        {
+          "id": "028_002",
+          "as_written": "Appease",
+          "correct_spelling": "Appease",
+          "definition": "Pacify or placate someone by acceding to their demands."
+        },
+        {
+          "id": "028_003",
+          "as_written": "Assuage",
+          "correct_spelling": "Assuage",
+          "definition": "Make an unpleasant feeling less intense."
+        },
+        {
+          "id": "028_004",
+          "as_written": "Mitigate",
+          "correct_spelling": "Mitigate",
+          "definition": "Make less severe, serious, or painful."
+        },
+        {
+          "id": "028_005",
+          "as_written": "Mollify",
+          "correct_spelling": "Mollify",
+          "definition": "Appease the anger or anxiety of someone."
+        },
+        {
+          "id": "028_006",
+          "as_written": "Placate",
+          "correct_spelling": "Placate",
+          "definition": "Make someone less angry or hostile."
+        },
+        {
+          "id": "028_007",
+          "as_written": "Propitiate",
+          "correct_spelling": "Propitiate",
+          "definition": "Win or regain the favor of a god, spirit, or person by doing something that pleases them."
+        },
+        {
+          "id": "028_008",
+          "as_written": "Satiate",
+          "correct_spelling": "Satiate",
+          "definition": "Satisfy a desire or an appetite to the full."
+        },
+        {
+          "id": "028_009",
+          "as_written": "Slake",
+          "correct_spelling": "Slake",
+          "definition": "Quench or satisfy one's thirst."
+        },
+        {
+          "id": "028_010",
+          "as_written": "Soothen",
+          "correct_spelling": "Soothe",
+          "definition": "Gently calm a person or their feelings."
+        },
+        {
+          "id": "028_011",
+          "as_written": "Alleviate",
+          "correct_spelling": "Alleviate",
+          "definition": "Make suffering, deficiency, or a problem less severe."
+        },
+        {
+          "id": "028_012",
+          "as_written": "Placde",
+          "correct_spelling": "Placid",
+          "definition": "Not easily upset or excited."
+        }
+      ]
+    },
+    {
+      "id": "029",
+      "name": "29) Plasent Sounding",
+      "words": [
+        {
+          "id": "029_001",
+          "as_written": "Euphonious",
+          "correct_spelling": "Euphonious",
+          "definition": "Pleasing to the ear."
+        },
+        {
+          "id": "029_002",
+          "as_written": "Meledious",
+          "correct_spelling": "Melodious",
+          "definition": "Of, producing, or having a pleasant tune; tuneful."
+        },
+        {
+          "id": "029_003",
+          "as_written": "Sonorous",
+          "correct_spelling": "Sonorous",
+          "definition": "Imposingly deep and full."
+        },
+        {
+          "id": "029_004",
+          "as_written": "Dullcet",
+          "correct_spelling": "Dulcet",
+          "definition": "Sweet and soothing."
+        },
+        {
+          "id": "029_005",
+          "as_written": "Melliflous",
+          "correct_spelling": "Mellifluous",
+          "definition": "Sweet or musical; pleasant to hear."
+        },
+        {
+          "id": "029_006",
+          "as_written": "Harmonious",
+          "correct_spelling": "Harmonious",
+          "definition": "Tuneful; not discordant."
+        }
+      ]
+    },
+    {
+      "id": "030",
+      "name": "30) Truth",
+      "words": [
+        {
+          "id": "030_001",
+          "as_written": "Candor",
+          "correct_spelling": "Candor",
+          "definition": "The quality of being open and honest in expression; frankness."
+        },
+        {
+          "id": "030_002",
+          "as_written": "Unequivical",
+          "correct_spelling": "Unequivocal",
+          "definition": "Leaving no doubt; unambiguous."
+        },
+        {
+          "id": "030_003",
+          "as_written": "Candid",
+          "correct_spelling": "Candid",
+          "definition": "Truthful and straightforward; frank."
+        },
+        {
+          "id": "030_004",
+          "as_written": "Fealty",
+          "correct_spelling": "Fealty",
+          "definition": "A feudal tenant's or vassal's sworn loyalty to a lord."
+        },
+        {
+          "id": "030_005",
+          "as_written": "Frankness",
+          "correct_spelling": "Frankness",
+          "definition": "The quality of being open, honest, and direct in speech or writing."
+        },
+        {
+          "id": "030_006",
+          "as_written": "Indubitable",
+          "correct_spelling": "Indubitable",
+          "definition": "Impossible to doubt; unquestionable."
+        },
+        {
+          "id": "030_007",
+          "as_written": "Proberity",
+          "correct_spelling": "Probity",
+          "definition": "The quality of having strong moral principles; honesty and decency."
+        },
+        {
+          "id": "030_008",
+          "as_written": "Integrity",
+          "correct_spelling": "Integrity",
+          "definition": "The quality of being honest and having strong moral principles."
+        },
+        {
+          "id": "030_009",
+          "as_written": "Legitimate",
+          "correct_spelling": "Legitimate",
+          "definition": "Conforming to the law or to rules."
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "name": "31) Poverty",
+      "words": [
+        {
+          "id": "031_001",
+          "as_written": "Indigent",
+          "correct_spelling": "Indigent",
+          "definition": "Poor; needy."
+        },
+        {
+          "id": "031_002",
+          "as_written": "Impoverish",
+          "correct_spelling": "Impoverished",
+          "definition": "Made poor."
+        },
+        {
+          "id": "031_003",
+          "as_written": "Impecunious",
+          "correct_spelling": "Impecunious",
+          "definition": "Having little or no money."
+        },
+        {
+          "id": "031_004",
+          "as_written": "Penurush",
+          "correct_spelling": "Penurious",
+          "definition": "Extremely poor; poverty-stricken."
+        },
+        {
+          "id": "031_005",
+          "as_written": "Penury",
+          "correct_spelling": "Penury",
+          "definition": "Extreme poverty; destitution."
+        },
+        {
+          "id": "031_006",
+          "as_written": "Penny less",
+          "correct_spelling": "Penniless",
+          "definition": "Having no money; very poor."
+        },
+        {
+          "id": "031_007",
+          "as_written": "Pauparer",
+          "correct_spelling": "Pauper",
+          "definition": "A very poor person."
+        },
+        {
+          "id": "031_008",
+          "as_written": "Destitute",
+          "correct_spelling": "Destitute",
+          "definition": "Without the basic necessities of life."
+        },
+        {
+          "id": "031_009",
+          "as_written": "Privation",
+          "correct_spelling": "Privation",
+          "definition": "A state in which things that are essential for human well-being such as food and warmth are scarce or lacking."
+        },
+        {
+          "id": "031_010",
+          "as_written": "Meagre",
+          "correct_spelling": "Meager",
+          "definition": "Lacking in quantity or quality."
+        },
+        {
+          "id": "031_011",
+          "as_written": "Sparse (Hardly)",
+          "correct_spelling": "Sparse",
+          "definition": "Thinly dispersed or scattered."
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "name": "32) Scarsicty / Shortage",
+      "words": [
+        {
+          "id": "032_001",
+          "as_written": "Deficite",
+          "correct_spelling": "Deficit",
+          "definition": "The amount by which something, especially a sum of money, is too small."
+        },
+        {
+          "id": "032_002",
+          "as_written": "Dearth",
+          "correct_spelling": "Dearth",
+          "definition": "A scarcity or lack of something."
+        },
+        {
+          "id": "032_003",
+          "as_written": "Paucity",
+          "correct_spelling": "Paucity",
+          "definition": "The presence of something only in small or insufficient quantities or amounts."
+        },
+        {
+          "id": "032_004",
+          "as_written": "Famine",
+          "correct_spelling": "Famine",
+          "definition": "Extreme scarcity of food."
+        },
+        {
+          "id": "032_005",
+          "as_written": "Sparse",
+          "correct_spelling": "Sparse",
+          "definition": "Thinly dispersed or scattered."
+        },
+        {
+          "id": "032_006",
+          "as_written": "Sparsing",
+          "correct_spelling": "Sparing",
+          "definition": "Moderate; economical."
+        },
+        {
+          "id": "032_007",
+          "as_written": "Niggar",
+          "correct_spelling": "Niggard",
+          "definition": "A stingy or ungenerous person."
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "name": "33) Slow / Late / Delay",
+      "words": [
+        {
+          "id": "033_001",
+          "as_written": "Dialetary",
+          "correct_spelling": "Dilatory",
+          "definition": "Slow to act; intended to cause delay."
+        },
+        {
+          "id": "033_002",
+          "as_written": "Laggard",
+          "correct_spelling": "Laggard",
+          "definition": "A person who makes slow progress and falls behind others."
+        },
+        {
+          "id": "033_003",
+          "as_written": "Loiter",
+          "correct_spelling": "Loiter",
+          "definition": "Stand or wait around idly or without apparent purpose."
+        },
+        {
+          "id": "033_004",
+          "as_written": "Lingering",
+          "correct_spelling": "Lingering",
+          "definition": "Lasting for a long time or slow to end."
+        },
+        {
+          "id": "033_005",
+          "as_written": "Procrastinate",
+          "correct_spelling": "Procrastinate",
+          "definition": "Delay or postpone action; put off doing something."
+        },
+        {
+          "id": "033_006",
+          "as_written": "Tarry",
+          "correct_spelling": "Tarry",
+          "definition": "Stay longer than intended; delay leaving a place."
+        },
+        {
+          "id": "033_007",
+          "as_written": "Dilly Dally",
+          "correct_spelling": "Dillydally",
+          "definition": "Waste time through aimless wandering or indecision."
+        },
+        {
+          "id": "033_008",
+          "as_written": "Tardy",
+          "correct_spelling": "Tardy",
+          "definition": "Delaying or delayed beyond the right or expected time; late."
+        },
+        {
+          "id": "033_009",
+          "as_written": "Retrice",
+          "correct_spelling": "Poky",
+          "definition": "Annoyingly slow."
+        },
+        {
+          "id": "033_010",
+          "as_written": "Snaillike",
+          "correct_spelling": "Snail-like",
+          "definition": "Resembling a snail, especially in being very slow."
+        },
+        {
+          "id": "033_011",
+          "as_written": "Lounge",
+          "correct_spelling": "Lounge",
+          "definition": "Lie, sit, or stand in a relaxed or lazy way."
+        },
+        {
+          "id": "033_012",
+          "as_written": "Retarted",
+          "correct_spelling": "Retarded",
+          "definition": "Delayed or held back in progress or development."
+        }
+      ]
     }
   ]
 }
